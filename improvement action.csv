@@ -1,0 +1,10 @@
+Action_ID,Action,Owner,Start_Date,Completion_Date,Before_Defect_Rate,After_Defect_Rate,Saving_MYR
+A001,Replace forklift transfer with conveyor/AGV flow,Process Engineering,2026-03-01,2026-04-15,8.5,3.2,24500
+A002,Install pressure-limiting valve on forklift clamps,Process Engineering,2026-02-10,2026-03-05,8.5,6.1,9800
+A003,Retrain forklift and manual handling operators on SOP,Warehouse Team,2026-01-20,2026-02-10,8.5,7.4,4200
+A004,Set and enforce max pallet stack height,Warehouse Team,2026-02-15,2026-03-01,7.4,5.9,6100
+A005,Recalibrate pallet wrapping machine tension,Process Engineering,2026-03-10,2026-03-20,6.1,4.8,5300
+A006,Add covered staging area before container loading,Facilities,2026-03-15,2026-04-30,4.8,3.9,7600
+A007,Introduce corner protectors for manual stacking,Warehouse Team,2026-04-05,2026-04-25,3.9,3.4,3100
+A008,Switch to higher-tack label adhesive,QA,2026-04-10,2026-05-05,3.4,3.0,2200
+A009,Phase 2: eliminate forklift and warehouse storage; auto-scan labels; flexible motored conveyor loads directly into container,Process Engineering,2026-05-15,2026-06-01,3.4,1.0,57773

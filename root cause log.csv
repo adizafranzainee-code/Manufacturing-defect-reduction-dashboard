@@ -1,0 +1,28 @@
+Defect_Type,Suspected_Cause,Cause_Category,Evidence,Action,Status
+Tear,Forklift clamp pressure too high,Method,Torn boxes concentrated at warehouse transfer point,Remove forklift handling at transfer stage; switch to conveyor/AGV,Completed
+Tear,Sharp edge on forklift clamp attachment,Machine,Clamp edge wear noted during audit,Replace worn clamp attachments with padded version,Completed
+Tear,Operator rushing during peak shift,Man,Higher incidence during night shift changeover,Retrain forklift operators on handling SOP,Ongoing
+Tear,Carton board thinner than spec on Model A,Material,Supplier batch variance found in incoming QC,Engage supplier on board thickness tolerance,Ongoing
+Dent,Multiple re-handling during temporary storage,Method,Damage found after 2nd/3rd touch in temp area,Reduce re-handling touchpoints; direct-to-loading flow,Completed
+Dent,Forklift clamp pressure too high,Machine,Dent pattern matches clamp jaw width,Install pressure-limiting valve on clamp,Completed
+Dent,Boxes stacked beyond recommended height,Method,Bottom-layer boxes show compression dents,Set and enforce max stack height at warehouse,Ongoing
+Dent,Humidity weakening box structure,Environment,Higher dent rate during rainy season,Monitor warehouse humidity; add moisture barrier,Ongoing
+Crushed,Overloading during container loading,Method,Crushed boxes found at bottom of pallet,Revise pallet loading pattern and max load,Completed
+Crushed,Pallet wrap too tight,Machine,Wrap tension found above spec on audit,Recalibrate pallet wrapping machine tension,Completed
+Crushed,Inadequate box compression strength,Material,ECT rating below design spec on sample test,Upgrade carton board ECT rating,Ongoing
+Wet,Exposure during outdoor container staging,Environment,Wet marks correlate with rain events,Add covered staging area before container loading,Ongoing
+Wet,Condensation inside container,Environment,Moisture found on inner box layer only,Add desiccant packs in container,Completed
+Wet,Leaking forklift hydraulic line,Machine,Oil/water stains near forklift travel path,Inspect and repair forklift hydraulic seals,Completed
+Label Damage,Label applied too close to box edge,Method,Peeling concentrated at box corners,Revise label placement standard away from edges,Completed
+Label Damage,Low-tack adhesive on label stock,Material,Labels detach after handling vibration,Switch to higher-tack label adhesive,Ongoing
+Label Damage,Friction from manual carrying,Man,Smudged/torn labels on manually carried units,Provide label protection film,Completed
+Scratch,Boxes sliding on conveyor bend,Machine,Scratch marks align with conveyor curve section,Add guide rollers at conveyor bend,Completed
+Scratch,Rough AGV tray surface,Machine,Scratch pattern matches AGV tray texture,Line AGV trays with soft matting,Ongoing
+Scratch,Boxes contacting each other during transfer,Method,Scratches on adjacent box-to-box contact points,Add spacers between boxes during transfer,Ongoing
+Tear,Lack of direct production-to-loading flow,Method,Root cause confirmed via 5-Why on transfer path,Redesign material flow to reduce re-handling,Completed
+Dent,Manual stacking without cushioning,Man,Dents on units stacked by hand at temp area,Introduce corner protectors for manual stacking,Ongoing
+Crushed,Weak bottom flap taping,Method,Flap separation observed under load,Upgrade taping pattern to H-taping standard,Completed
+Wet,Box stored near loading dock opening,Environment,Wet damage highest near dock during rain,Install dock door seals,Ongoing
+Label Damage,Conveyor friction on label surface,Machine,Label rub marks match conveyor belt texture,Add non-stick guide at conveyor label zone,Ongoing
+Scratch,Higher AGV/conveyor throughput increases tray and guide-rail friction,Machine,Scratch share of total defects rose after Phase 2 rollout,Add guide-rail padding and review AGV tray material,Ongoing
+Scratch,Flexible conveyor bend radius into container is tighter than the old dock loading path,Method,Scratch marks concentrated at the conveyor-to-container transition point,Increase bend radius / add roller guides at container entry,Ongoing

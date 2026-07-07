@@ -1,0 +1,1200 @@
+Date,Line,Shift,Model,Defect_Type,Defect_Qty,Process_Stage,Handling_Method,Rework_Cost_MYR
+2026-01-01,Line A,Night,Model B,Tear,96,Loading,Forklift,754
+2026-01-01,Line A,Night,Model B,Dent,106,Loading,Forklift,715
+2026-01-01,Line B,Night,Model A,Dent,72,Loading,Forklift,524
+2026-01-01,Line C,Night,Model C,Dent,97,Temporary Area,Manual,681
+2026-01-01,Line C,Night,Model C,Crushed,88,Warehouse,Conveyor,795
+2026-01-01,Line C,Night,Model C,Crushed,60,Conveyor,Forklift,539
+2026-01-01,Line C,Night,Model C,Tear,155,Conveyor,Forklift,1186
+2026-01-02,Line A,Night,Model B,Wet,18,Conveyor,Conveyor,101
+2026-01-02,Line A,Night,Model B,Dent,90,Warehouse,Forklift,692
+2026-01-02,Line A,Night,Model B,Crushed,96,Loading,Forklift,899
+2026-01-02,Line A,Night,Model B,Dent,110,Temporary Area,Manual,774
+2026-01-02,Line B,Night,Model A,Wet,28,Conveyor,AGV,166
+2026-01-02,Line B,Night,Model A,Dent,34,Loading,Forklift,237
+2026-01-02,Line B,Night,Model A,Tear,100,Temporary Area,Forklift,727
+2026-01-02,Line B,Night,Model A,Tear,179,Loading,Forklift,1430
+2026-01-02,Line C,Night,Model C,Wet,53,Warehouse,Manual,329
+2026-01-03,Line A,Night,Model B,Tear,114,Conveyor,Conveyor,976
+2026-01-03,Line A,Night,Model B,Dent,122,Loading,AGV,914
+2026-01-03,Line A,Night,Model B,Tear,112,Loading,Forklift,878
+2026-01-03,Line B,Night,Model A,Tear,54,Conveyor,AGV,415
+2026-01-03,Line B,Night,Model A,Dent,50,Warehouse,Forklift,359
+2026-01-03,Line B,Night,Model A,Scratch,29,Warehouse,Manual,92
+2026-01-03,Line B,Night,Model A,Wet,55,Conveyor,Manual,354
+2026-01-03,Line C,Night,Model C,Dent,123,Conveyor,Manual,944
+2026-01-03,Line C,Night,Model C,Tear,129,Loading,Manual,954
+2026-01-04,Line A,Night,Model B,Scratch,17,Loading,Forklift,47
+2026-01-04,Line A,Night,Model B,Dent,83,Warehouse,Conveyor,527
+2026-01-04,Line A,Night,Model B,Tear,155,Warehouse,Forklift,1283
+2026-01-04,Line A,Night,Model B,Crushed,79,Warehouse,Conveyor,754
+2026-01-04,Line B,Night,Model A,Dent,118,Conveyor,Conveyor,828
+2026-01-04,Line C,Night,Model C,Dent,60,Conveyor,Conveyor,450
+2026-01-05,Line A,Day,Model C,Tear,73,Conveyor,Conveyor,536
+2026-01-05,Line A,Day,Model C,Tear,114,Loading,Manual,875
+2026-01-05,Line A,Day,Model C,Dent,149,Loading,Forklift,1147
+2026-01-05,Line A,Day,Model C,Crushed,59,Temporary Area,Manual,531
+2026-01-05,Line B,Day,Model B,Tear,168,Warehouse,Forklift,1331
+2026-01-05,Line C,Day,Model A,Tear,118,Conveyor,Conveyor,1021
+2026-01-05,Line C,Day,Model A,Dent,69,Warehouse,Manual,498
+2026-01-05,Line C,Day,Model A,Tear,64,Warehouse,Forklift,550
+2026-01-05,Line C,Day,Model A,Tear,61,Loading,Manual,516
+2026-01-05,Line C,Day,Model A,Dent,100,Temporary Area,Forklift,744
+2026-01-06,Line A,Day,Model C,Dent,110,Conveyor,AGV,760
+2026-01-06,Line A,Day,Model C,Tear,81,Conveyor,AGV,615
+2026-01-06,Line A,Day,Model C,Tear,45,Loading,Forklift,347
+2026-01-06,Line A,Day,Model C,Tear,148,Warehouse,Forklift,1231
+2026-01-06,Line B,Day,Model B,Dent,37,Warehouse,Forklift,278
+2026-01-06,Line B,Day,Model B,Tear,44,Loading,Forklift,347
+2026-01-06,Line C,Day,Model A,Tear,86,Loading,Forklift,651
+2026-01-06,Line C,Day,Model A,Tear,109,Conveyor,AGV,909
+2026-01-06,Line C,Day,Model A,Tear,104,Warehouse,Forklift,902
+2026-01-07,Line B,Day,Model B,Tear,52,Temporary Area,Manual,424
+2026-01-07,Line C,Day,Model A,Wet,51,Temporary Area,Manual,323
+2026-01-08,Line A,Day,Model C,Crushed,29,Loading,Forklift,246
+2026-01-08,Line A,Day,Model C,Dent,102,Warehouse,Forklift,647
+2026-01-08,Line A,Day,Model C,Tear,132,Warehouse,Forklift,1100
+2026-01-08,Line A,Day,Model C,Crushed,78,Conveyor,Forklift,715
+2026-01-08,Line A,Day,Model C,Tear,48,Loading,Forklift,385
+2026-01-08,Line A,Day,Model C,Scratch,11,Warehouse,Forklift,36
+2026-01-08,Line B,Day,Model B,Dent,83,Warehouse,Forklift,557
+2026-01-08,Line B,Day,Model B,Dent,101,Conveyor,Conveyor,721
+2026-01-08,Line B,Day,Model B,Tear,126,Conveyor,Conveyor,1019
+2026-01-08,Line B,Day,Model B,Dent,103,Loading,Manual,731
+2026-01-08,Line C,Day,Model A,Crushed,95,Warehouse,Forklift,922
+2026-01-08,Line C,Day,Model A,Dent,41,Temporary Area,Manual,313
+2026-01-08,Line C,Day,Model A,Tear,177,Conveyor,Forklift,1334
+2026-01-08,Line C,Day,Model A,Dent,139,Loading,Manual,949
+2026-01-09,Line A,Day,Model C,Wet,47,Loading,Conveyor,265
+2026-01-09,Line A,Day,Model C,Crushed,27,Temporary Area,Forklift,237
+2026-01-09,Line A,Day,Model C,Crushed,70,Conveyor,Conveyor,644
+2026-01-09,Line A,Day,Model C,Dent,68,Loading,Forklift,517
+2026-01-09,Line A,Day,Model C,Dent,73,Warehouse,Forklift,473
+2026-01-09,Line B,Day,Model B,Label Damage,29,Warehouse,Forklift,122
+2026-01-09,Line B,Day,Model B,Wet,78,Warehouse,Forklift,470
+2026-01-09,Line C,Day,Model A,Dent,52,Loading,AGV,364
+2026-01-09,Line C,Day,Model A,Tear,83,Warehouse,Forklift,714
+2026-01-10,Line A,Day,Model C,Tear,147,Temporary Area,Manual,1257
+2026-01-10,Line A,Day,Model C,Dent,39,Warehouse,Forklift,254
+2026-01-10,Line A,Day,Model C,Wet,31,Loading,Manual,178
+2026-01-10,Line A,Day,Model C,Tear,44,Loading,Forklift,331
+2026-01-10,Line A,Day,Model C,Label Damage,48,Conveyor,Forklift,177
+2026-01-10,Line B,Day,Model B,Dent,135,Warehouse,Forklift,1011
+2026-01-10,Line B,Day,Model B,Wet,61,Loading,Forklift,348
+2026-01-10,Line C,Day,Model A,Label Damage,26,Loading,Conveyor,104
+2026-01-11,Line A,Day,Model C,Tear,112,Conveyor,AGV,977
+2026-01-11,Line A,Day,Model C,Tear,63,Temporary Area,Manual,457
+2026-01-11,Line A,Day,Model C,Tear,75,Conveyor,AGV,613
+2026-01-11,Line B,Day,Model B,Scratch,17,Loading,Conveyor,47
+2026-01-11,Line B,Day,Model B,Label Damage,33,Warehouse,Forklift,128
+2026-01-11,Line B,Day,Model B,Crushed,70,Loading,Manual,594
+2026-01-11,Line C,Day,Model A,Scratch,32,Warehouse,Forklift,95
+2026-01-11,Line C,Day,Model A,Tear,109,Loading,Forklift,946
+2026-01-11,Line C,Day,Model A,Tear,95,Warehouse,Manual,784
+2026-01-12,Line A,Night,Model A,Dent,63,Loading,Conveyor,444
+2026-01-12,Line A,Night,Model A,Dent,149,Temporary Area,Forklift,1015
+2026-01-12,Line A,Night,Model A,Crushed,31,Loading,Forklift,279
+2026-01-12,Line A,Night,Model A,Wet,61,Loading,Forklift,354
+2026-01-12,Line A,Night,Model A,Dent,129,Warehouse,Forklift,933
+2026-01-12,Line A,Night,Model A,Dent,41,Temporary Area,Manual,277
+2026-01-12,Line A,Night,Model A,Tear,145,Warehouse,Conveyor,1199
+2026-01-12,Line B,Night,Model C,Tear,74,Loading,Forklift,641
+2026-01-12,Line C,Night,Model B,Tear,140,Temporary Area,Manual,1098
+2026-01-12,Line C,Night,Model B,Dent,147,Warehouse,Forklift,1106
+2026-01-12,Line C,Night,Model B,Dent,131,Temporary Area,Forklift,884
+2026-01-12,Line C,Night,Model B,Dent,132,Loading,Forklift,893
+2026-01-13,Line A,Night,Model A,Dent,85,Warehouse,Forklift,584
+2026-01-13,Line A,Night,Model A,Tear,122,Warehouse,Conveyor,911
+2026-01-13,Line A,Night,Model A,Tear,58,Loading,Forklift,430
+2026-01-13,Line A,Night,Model A,Crushed,87,Warehouse,Forklift,861
+2026-01-13,Line A,Night,Model A,Tear,96,Warehouse,Forklift,834
+2026-01-13,Line A,Night,Model A,Scratch,26,Warehouse,Forklift,83
+2026-01-13,Line A,Night,Model A,Tear,103,Conveyor,Conveyor,879
+2026-01-13,Line A,Night,Model A,Tear,55,Loading,Forklift,440
+2026-01-13,Line A,Night,Model A,Dent,32,Conveyor,Manual,225
+2026-01-13,Line A,Night,Model A,Tear,179,Conveyor,Manual,1380
+2026-01-13,Line B,Night,Model C,Dent,111,Loading,Forklift,827
+2026-01-13,Line B,Night,Model C,Dent,129,Loading,Forklift,957
+2026-01-13,Line C,Night,Model B,Tear,79,Loading,Forklift,575
+2026-01-13,Line C,Night,Model B,Tear,49,Loading,Forklift,356
+2026-01-13,Line C,Night,Model B,Dent,33,Conveyor,Conveyor,248
+2026-01-14,Line A,Night,Model A,Crushed,31,Loading,Forklift,277
+2026-01-14,Line A,Night,Model A,Tear,130,Warehouse,Forklift,961
+2026-01-14,Line A,Night,Model A,Tear,145,Warehouse,Forklift,1235
+2026-01-14,Line A,Night,Model A,Dent,148,Conveyor,AGV,1025
+2026-01-14,Line A,Night,Model A,Dent,108,Temporary Area,Conveyor,812
+2026-01-14,Line A,Night,Model A,Tear,172,Loading,Forklift,1441
+2026-01-14,Line B,Night,Model C,Tear,80,Warehouse,Manual,609
+2026-01-14,Line B,Night,Model C,Dent,71,Loading,Conveyor,486
+2026-01-14,Line B,Night,Model C,Tear,118,Warehouse,Forklift,956
+2026-01-14,Line B,Night,Model C,Dent,31,Warehouse,Forklift,234
+2026-01-14,Line C,Night,Model B,Dent,55,Conveyor,AGV,363
+2026-01-14,Line C,Night,Model B,Dent,33,Loading,Forklift,212
+2026-01-14,Line C,Night,Model B,Tear,69,Warehouse,Forklift,512
+2026-01-15,Line A,Night,Model A,Tear,152,Temporary Area,Manual,1320
+2026-01-15,Line A,Night,Model A,Tear,164,Warehouse,Forklift,1343
+2026-01-15,Line A,Night,Model A,Tear,54,Loading,Conveyor,434
+2026-01-15,Line A,Night,Model A,Scratch,33,Warehouse,Forklift,96
+2026-01-15,Line B,Night,Model C,Dent,126,Conveyor,AGV,897
+2026-01-15,Line B,Night,Model C,Tear,95,Warehouse,Forklift,700
+2026-01-15,Line B,Night,Model C,Wet,58,Temporary Area,Manual,343
+2026-01-15,Line B,Night,Model C,Dent,79,Temporary Area,AGV,541
+2026-01-15,Line B,Night,Model C,Tear,93,Loading,Forklift,768
+2026-01-15,Line C,Night,Model B,Tear,104,Loading,Forklift,814
+2026-01-15,Line C,Night,Model B,Tear,114,Loading,Manual,972
+2026-01-15,Line C,Night,Model B,Label Damage,22,Warehouse,Manual,80
+2026-01-16,Line A,Night,Model A,Tear,51,Warehouse,Manual,428
+2026-01-16,Line A,Night,Model A,Wet,16,Loading,Forklift,87
+2026-01-16,Line A,Night,Model A,Crushed,99,Conveyor,Forklift,903
+2026-01-16,Line A,Night,Model A,Tear,92,Loading,Forklift,735
+2026-01-16,Line B,Night,Model C,Tear,74,Conveyor,Conveyor,649
+2026-01-16,Line B,Night,Model C,Dent,97,Warehouse,Forklift,668
+2026-01-16,Line B,Night,Model C,Tear,49,Loading,Conveyor,377
+2026-01-16,Line B,Night,Model C,Wet,33,Loading,Forklift,197
+2026-01-16,Line B,Night,Model C,Dent,43,Loading,Forklift,308
+2026-01-16,Line B,Night,Model C,Tear,92,Loading,Forklift,694
+2026-01-16,Line B,Night,Model C,Tear,66,Warehouse,Forklift,575
+2026-01-16,Line C,Night,Model B,Dent,41,Conveyor,Conveyor,283
+2026-01-16,Line C,Night,Model B,Dent,74,Loading,Forklift,566
+2026-01-16,Line C,Night,Model B,Tear,179,Temporary Area,Manual,1547
+2026-01-17,Line A,Night,Model A,Tear,141,Conveyor,Conveyor,1222
+2026-01-17,Line A,Night,Model A,Dent,94,Warehouse,Forklift,601
+2026-01-17,Line A,Night,Model A,Label Damage,35,Warehouse,Forklift,153
+2026-01-17,Line B,Night,Model C,Tear,80,Conveyor,Conveyor,646
+2026-01-17,Line B,Night,Model C,Wet,64,Loading,AGV,381
+2026-01-17,Line B,Night,Model C,Dent,87,Warehouse,Forklift,559
+2026-01-17,Line B,Night,Model C,Tear,67,Conveyor,Conveyor,548
+2026-01-17,Line B,Night,Model C,Tear,170,Warehouse,Forklift,1489
+2026-01-17,Line B,Night,Model C,Tear,161,Temporary Area,Forklift,1220
+2026-01-18,Line A,Night,Model A,Dent,147,Conveyor,AGV,1055
+2026-01-18,Line A,Night,Model A,Tear,131,Conveyor,Conveyor,1142
+2026-01-18,Line B,Night,Model C,Tear,160,Temporary Area,Forklift,1249
+2026-01-18,Line C,Night,Model B,Dent,126,Warehouse,Manual,921
+2026-01-18,Line C,Night,Model B,Tear,72,Conveyor,AGV,531
+2026-01-18,Line C,Night,Model B,Dent,142,Loading,Forklift,1092
+2026-01-19,Line A,Day,Model B,Dent,82,Loading,Forklift,522
+2026-01-19,Line A,Day,Model B,Scratch,14,Conveyor,Forklift,38
+2026-01-19,Line A,Day,Model B,Wet,45,Loading,Manual,266
+2026-01-19,Line B,Day,Model A,Dent,35,Conveyor,Conveyor,243
+2026-01-19,Line B,Day,Model A,Tear,143,Temporary Area,Manual,1075
+2026-01-19,Line B,Day,Model A,Dent,117,Loading,Manual,755
+2026-01-19,Line B,Day,Model A,Label Damage,23,Warehouse,Forklift,88
+2026-01-19,Line B,Day,Model A,Dent,50,Loading,Conveyor,327
+2026-01-19,Line B,Day,Model A,Tear,139,Warehouse,Forklift,1062
+2026-01-19,Line B,Day,Model A,Tear,156,Loading,Forklift,1141
+2026-01-19,Line C,Day,Model C,Wet,60,Warehouse,Forklift,337
+2026-01-19,Line C,Day,Model C,Dent,139,Warehouse,Forklift,937
+2026-01-19,Line C,Day,Model C,Tear,145,Warehouse,Forklift,1114
+2026-01-19,Line C,Day,Model C,Tear,48,Loading,Forklift,384
+2026-01-20,Line A,Day,Model B,Tear,170,Loading,Forklift,1335
+2026-01-20,Line A,Day,Model B,Dent,148,Loading,Manual,979
+2026-01-20,Line A,Day,Model B,Crushed,28,Temporary Area,Conveyor,271
+2026-01-20,Line A,Day,Model B,Wet,63,Warehouse,Forklift,386
+2026-01-20,Line A,Day,Model B,Label Damage,23,Loading,Forklift,88
+2026-01-20,Line A,Day,Model B,Tear,128,Warehouse,Forklift,1004
+2026-01-20,Line A,Day,Model B,Wet,76,Temporary Area,Manual,426
+2026-01-20,Line A,Day,Model B,Crushed,81,Temporary Area,Forklift,755
+2026-01-20,Line B,Day,Model A,Dent,46,Warehouse,Forklift,340
+2026-01-20,Line B,Day,Model A,Crushed,87,Conveyor,Forklift,705
+2026-01-20,Line B,Day,Model A,Dent,55,Conveyor,AGV,363
+2026-01-20,Line B,Day,Model A,Dent,46,Conveyor,Conveyor,338
+2026-01-20,Line C,Day,Model C,Tear,95,Loading,Forklift,815
+2026-01-21,Line A,Day,Model B,Crushed,53,Conveyor,Conveyor,448
+2026-01-21,Line A,Day,Model B,Tear,105,Warehouse,Forklift,890
+2026-01-21,Line A,Day,Model B,Wet,54,Conveyor,Conveyor,308
+2026-01-21,Line A,Day,Model B,Tear,78,Conveyor,AGV,590
+2026-01-21,Line A,Day,Model B,Wet,20,Warehouse,Forklift,123
+2026-01-21,Line A,Day,Model B,Crushed,32,Temporary Area,Forklift,308
+2026-01-21,Line B,Day,Model A,Wet,49,Loading,Forklift,272
+2026-01-21,Line B,Day,Model A,Crushed,80,Loading,AGV,712
+2026-01-21,Line C,Day,Model C,Tear,134,Loading,Forklift,1090
+2026-01-21,Line C,Day,Model C,Dent,90,Warehouse,Conveyor,598
+2026-01-21,Line C,Day,Model C,Crushed,83,Warehouse,Manual,791
+2026-01-21,Line C,Day,Model C,Label Damage,19,Conveyor,Manual,83
+2026-01-21,Line C,Day,Model C,Tear,49,Warehouse,Manual,360
+2026-01-22,Line A,Day,Model B,Crushed,98,Loading,Forklift,910
+2026-01-22,Line A,Day,Model B,Wet,74,Warehouse,Forklift,450
+2026-01-22,Line A,Day,Model B,Dent,115,Warehouse,Forklift,864
+2026-01-22,Line A,Day,Model B,Tear,161,Temporary Area,Forklift,1352
+2026-01-22,Line A,Day,Model B,Tear,47,Loading,Conveyor,405
+2026-01-22,Line A,Day,Model B,Tear,151,Loading,Forklift,1143
+2026-01-22,Line A,Day,Model B,Tear,74,Loading,AGV,608
+2026-01-22,Line B,Day,Model A,Wet,78,Conveyor,Conveyor,434
+2026-01-22,Line B,Day,Model A,Scratch,25,Temporary Area,AGV,72
+2026-01-22,Line B,Day,Model A,Tear,66,Warehouse,Forklift,483
+2026-01-22,Line B,Day,Model A,Scratch,9,Warehouse,Forklift,29
+2026-01-22,Line B,Day,Model A,Dent,79,Conveyor,Conveyor,568
+2026-01-22,Line C,Day,Model C,Dent,135,Loading,Forklift,900
+2026-01-22,Line C,Day,Model C,Tear,136,Conveyor,Forklift,1128
+2026-01-22,Line C,Day,Model C,Wet,36,Loading,Forklift,208
+2026-01-23,Line A,Day,Model B,Dent,48,Warehouse,Manual,311
+2026-01-23,Line A,Day,Model B,Dent,104,Warehouse,Manual,666
+2026-01-23,Line A,Day,Model B,Dent,149,Warehouse,Forklift,1031
+2026-01-23,Line A,Day,Model B,Crushed,37,Conveyor,Forklift,336
+2026-01-23,Line A,Day,Model B,Crushed,26,Loading,Forklift,254
+2026-01-23,Line B,Day,Model A,Dent,104,Temporary Area,Forklift,727
+2026-01-23,Line B,Day,Model A,Dent,100,Conveyor,AGV,660
+2026-01-23,Line B,Day,Model A,Tear,65,Warehouse,Forklift,548
+2026-01-23,Line B,Day,Model A,Crushed,98,Loading,Forklift,960
+2026-01-23,Line C,Day,Model C,Tear,61,Warehouse,Manual,513
+2026-01-24,Line A,Day,Model B,Tear,129,Warehouse,Forklift,1134
+2026-01-24,Line A,Day,Model B,Scratch,25,Loading,Forklift,80
+2026-01-24,Line A,Day,Model B,Label Damage,43,Loading,Forklift,165
+2026-01-24,Line A,Day,Model B,Dent,129,Temporary Area,AGV,976
+2026-01-24,Line A,Day,Model B,Crushed,70,Warehouse,Forklift,638
+2026-01-24,Line A,Day,Model B,Dent,95,Warehouse,Manual,698
+2026-01-24,Line B,Day,Model A,Tear,47,Conveyor,Conveyor,396
+2026-01-24,Line B,Day,Model A,Dent,57,Warehouse,Forklift,373
+2026-01-24,Line C,Day,Model C,Tear,43,Temporary Area,Manual,320
+2026-01-24,Line C,Day,Model C,Dent,131,Warehouse,Forklift,838
+2026-01-25,Line A,Day,Model B,Tear,135,Conveyor,AGV,1016
+2026-01-25,Line A,Day,Model B,Dent,48,Warehouse,Manual,366
+2026-01-25,Line B,Day,Model A,Tear,107,Warehouse,Forklift,774
+2026-01-25,Line B,Day,Model A,Dent,115,Warehouse,Manual,850
+2026-01-25,Line B,Day,Model A,Crushed,89,Temporary Area,Manual,818
+2026-01-25,Line C,Day,Model C,Tear,106,Warehouse,Forklift,793
+2026-01-26,Line A,Night,Model C,Label Damage,53,Conveyor,AGV,232
+2026-01-26,Line A,Night,Model C,Wet,64,Loading,AGV,352
+2026-01-26,Line A,Night,Model C,Wet,46,Warehouse,Manual,280
+2026-01-26,Line A,Night,Model C,Tear,98,Temporary Area,Manual,820
+2026-01-26,Line B,Night,Model B,Tear,123,Loading,Forklift,1030
+2026-01-26,Line B,Night,Model B,Tear,171,Conveyor,Conveyor,1464
+2026-01-26,Line B,Night,Model B,Tear,57,Conveyor,Manual,474
+2026-01-26,Line B,Night,Model B,Scratch,14,Warehouse,Forklift,43
+2026-01-26,Line B,Night,Model B,Tear,145,Loading,Forklift,1110
+2026-01-26,Line B,Night,Model B,Tear,145,Conveyor,Conveyor,1240
+2026-01-26,Line C,Night,Model A,Wet,32,Warehouse,Forklift,199
+2026-01-26,Line C,Night,Model A,Tear,61,Warehouse,Forklift,482
+2026-01-26,Line C,Night,Model A,Dent,81,Warehouse,Forklift,580
+2026-01-27,Line A,Night,Model C,Tear,44,Warehouse,Forklift,374
+2026-01-27,Line A,Night,Model C,Tear,60,Loading,Forklift,481
+2026-01-27,Line A,Night,Model C,Tear,43,Warehouse,Forklift,363
+2026-01-27,Line B,Night,Model B,Dent,122,Conveyor,Conveyor,877
+2026-01-27,Line C,Night,Model A,Dent,124,Warehouse,Forklift,953
+2026-01-27,Line C,Night,Model A,Tear,111,Conveyor,Forklift,884
+2026-01-27,Line C,Night,Model A,Scratch,16,Warehouse,Forklift,44
+2026-01-28,Line A,Night,Model C,Dent,148,Conveyor,AGV,986
+2026-01-28,Line A,Night,Model C,Dent,146,Conveyor,Conveyor,977
+2026-01-28,Line A,Night,Model C,Wet,74,Loading,Forklift,416
+2026-01-28,Line B,Night,Model B,Dent,147,Loading,Forklift,963
+2026-01-28,Line C,Night,Model A,Crushed,28,Warehouse,Forklift,256
+2026-01-28,Line C,Night,Model A,Tear,159,Conveyor,AGV,1155
+2026-01-28,Line C,Night,Model A,Dent,111,Warehouse,Forklift,720
+2026-01-29,Line A,Night,Model C,Dent,119,Warehouse,Forklift,852
+2026-01-29,Line A,Night,Model C,Tear,76,Conveyor,AGV,560
+2026-01-29,Line A,Night,Model C,Tear,45,Warehouse,Forklift,344
+2026-01-29,Line A,Night,Model C,Tear,177,Warehouse,Forklift,1367
+2026-01-29,Line A,Night,Model C,Tear,87,Warehouse,Forklift,732
+2026-01-29,Line A,Night,Model C,Scratch,32,Conveyor,AGV,92
+2026-01-29,Line A,Night,Model C,Crushed,62,Loading,Conveyor,602
+2026-01-29,Line B,Night,Model B,Scratch,14,Conveyor,Conveyor,38
+2026-01-29,Line B,Night,Model B,Crushed,72,Conveyor,Conveyor,694
+2026-01-29,Line B,Night,Model B,Tear,159,Warehouse,Forklift,1259
+2026-01-29,Line B,Night,Model B,Tear,45,Warehouse,Forklift,387
+2026-01-29,Line B,Night,Model B,Tear,145,Conveyor,Conveyor,1161
+2026-01-29,Line C,Night,Model A,Tear,85,Warehouse,Manual,724
+2026-01-29,Line C,Night,Model A,Tear,109,Loading,AGV,931
+2026-01-29,Line C,Night,Model A,Tear,175,Warehouse,Forklift,1489
+2026-01-30,Line A,Night,Model C,Crushed,34,Loading,Forklift,280
+2026-01-30,Line A,Night,Model C,Dent,127,Loading,Forklift,821
+2026-01-30,Line A,Night,Model C,Label Damage,23,Conveyor,Conveyor,94
+2026-01-30,Line A,Night,Model C,Crushed,45,Warehouse,Forklift,373
+2026-01-30,Line B,Night,Model B,Tear,88,Temporary Area,AGV,684
+2026-01-30,Line B,Night,Model B,Dent,67,Warehouse,Forklift,506
+2026-01-30,Line B,Night,Model B,Tear,122,Temporary Area,Manual,1006
+2026-01-30,Line B,Night,Model B,Tear,45,Temporary Area,Manual,392
+2026-01-30,Line B,Night,Model B,Crushed,88,Conveyor,Conveyor,771
+2026-01-30,Line C,Night,Model A,Tear,84,Warehouse,Forklift,631
+2026-01-30,Line C,Night,Model A,Tear,74,Temporary Area,Manual,596
+2026-01-31,Line A,Night,Model C,Dent,71,Conveyor,Manual,493
+2026-01-31,Line A,Night,Model C,Tear,138,Temporary Area,Manual,1106
+2026-01-31,Line A,Night,Model C,Crushed,80,Conveyor,Conveyor,736
+2026-01-31,Line A,Night,Model C,Crushed,23,Warehouse,Conveyor,209
+2026-01-31,Line A,Night,Model C,Tear,45,Conveyor,Conveyor,354
+2026-01-31,Line A,Night,Model C,Tear,83,Loading,Forklift,610
+2026-01-31,Line A,Night,Model C,Wet,28,Conveyor,Conveyor,161
+2026-01-31,Line B,Night,Model B,Crushed,96,Warehouse,Forklift,942
+2026-01-31,Line B,Night,Model B,Crushed,78,Loading,Forklift,693
+2026-01-31,Line B,Night,Model B,Tear,80,Warehouse,Forklift,691
+2026-01-31,Line B,Night,Model B,Scratch,25,Warehouse,Forklift,70
+2026-01-31,Line B,Night,Model B,Tear,54,Warehouse,Forklift,432
+2026-01-31,Line C,Night,Model A,Tear,146,Warehouse,Forklift,1113
+2026-02-01,Line A,Night,Model C,Dent,66,Conveyor,Forklift,455
+2026-02-01,Line A,Night,Model C,Dent,46,Conveyor,Conveyor,326
+2026-02-01,Line A,Night,Model C,Tear,112,Warehouse,Forklift,858
+2026-02-01,Line A,Night,Model C,Crushed,78,Conveyor,Forklift,749
+2026-02-01,Line B,Night,Model B,Tear,105,Conveyor,Conveyor,828
+2026-02-01,Line C,Night,Model A,Wet,50,Loading,Forklift,323
+2026-02-01,Line C,Night,Model A,Dent,129,Temporary Area,Manual,879
+2026-02-01,Line C,Night,Model A,Dent,80,Warehouse,Forklift,538
+2026-02-01,Line C,Night,Model A,Tear,152,Warehouse,Forklift,1241
+2026-02-02,Line A,Day,Model A,Tear,162,Loading,Forklift,1422
+2026-02-02,Line A,Day,Model A,Tear,158,Temporary Area,Manual,1329
+2026-02-02,Line A,Day,Model A,Tear,122,Loading,Forklift,1072
+2026-02-02,Line A,Day,Model A,Tear,94,Warehouse,Forklift,767
+2026-02-02,Line B,Day,Model C,Tear,117,Temporary Area,Forklift,970
+2026-02-02,Line B,Day,Model C,Scratch,37,Loading,Forklift,102
+2026-02-02,Line B,Day,Model C,Tear,108,Warehouse,Forklift,939
+2026-02-02,Line B,Day,Model C,Tear,157,Loading,Forklift,1357
+2026-02-02,Line B,Day,Model C,Crushed,27,Loading,Forklift,249
+2026-02-02,Line C,Day,Model B,Dent,52,Loading,AGV,359
+2026-02-02,Line C,Day,Model B,Crushed,73,Conveyor,AGV,618
+2026-02-02,Line C,Day,Model B,Dent,36,Loading,Forklift,247
+2026-02-02,Line C,Day,Model B,Dent,35,Warehouse,Manual,256
+2026-02-03,Line A,Day,Model A,Tear,117,Conveyor,Forklift,859
+2026-02-03,Line A,Day,Model A,Dent,111,Loading,Forklift,828
+2026-02-03,Line A,Day,Model A,Dent,117,Temporary Area,Manual,879
+2026-02-03,Line A,Day,Model A,Crushed,55,Warehouse,Forklift,450
+2026-02-03,Line A,Day,Model A,Tear,168,Warehouse,Forklift,1345
+2026-02-03,Line B,Day,Model C,Tear,172,Conveyor,Conveyor,1451
+2026-02-03,Line C,Day,Model B,Dent,53,Conveyor,AGV,402
+2026-02-04,Line A,Day,Model A,Dent,36,Warehouse,AGV,241
+2026-02-04,Line A,Day,Model A,Tear,47,Temporary Area,AGV,387
+2026-02-04,Line A,Day,Model A,Dent,93,Warehouse,Forklift,598
+2026-02-04,Line A,Day,Model A,Tear,42,Conveyor,Conveyor,339
+2026-02-04,Line A,Day,Model A,Tear,71,Loading,Forklift,553
+2026-02-04,Line A,Day,Model A,Dent,145,Conveyor,AGV,1097
+2026-02-04,Line B,Day,Model C,Label Damage,55,Loading,Manual,215
+2026-02-04,Line B,Day,Model C,Tear,40,Loading,Forklift,310
+2026-02-04,Line B,Day,Model C,Tear,101,Warehouse,Forklift,884
+2026-02-04,Line B,Day,Model C,Tear,117,Warehouse,Forklift,936
+2026-02-04,Line B,Day,Model C,Dent,95,Conveyor,AGV,691
+2026-02-05,Line A,Day,Model A,Dent,59,Loading,Manual,422
+2026-02-05,Line A,Day,Model A,Dent,91,Warehouse,Forklift,657
+2026-02-05,Line B,Day,Model C,Dent,74,Loading,Conveyor,530
+2026-02-05,Line C,Day,Model B,Label Damage,37,Conveyor,Forklift,135
+2026-02-05,Line C,Day,Model B,Tear,161,Warehouse,Forklift,1202
+2026-02-06,Line A,Day,Model A,Tear,86,Conveyor,AGV,675
+2026-02-06,Line A,Day,Model A,Label Damage,51,Conveyor,AGV,202
+2026-02-06,Line A,Day,Model A,Crushed,73,Warehouse,Forklift,672
+2026-02-06,Line A,Day,Model A,Tear,82,Temporary Area,Manual,698
+2026-02-06,Line A,Day,Model A,Dent,136,Conveyor,Conveyor,951
+2026-02-06,Line B,Day,Model C,Label Damage,45,Warehouse,Manual,174
+2026-02-06,Line B,Day,Model C,Tear,118,Warehouse,Forklift,943
+2026-02-06,Line B,Day,Model C,Wet,27,Warehouse,Manual,161
+2026-02-06,Line B,Day,Model C,Tear,100,Conveyor,Conveyor,835
+2026-02-06,Line B,Day,Model C,Crushed,41,Loading,Manual,397
+2026-02-06,Line B,Day,Model C,Crushed,43,Conveyor,Conveyor,414
+2026-02-06,Line C,Day,Model B,Dent,67,Warehouse,Forklift,459
+2026-02-06,Line C,Day,Model B,Dent,130,Loading,Forklift,966
+2026-02-06,Line C,Day,Model B,Wet,40,Loading,Forklift,245
+2026-02-06,Line C,Day,Model B,Dent,86,Loading,Forklift,612
+2026-02-06,Line C,Day,Model B,Dent,113,Conveyor,Forklift,766
+2026-02-06,Line C,Day,Model B,Crushed,79,Conveyor,Conveyor,723
+2026-02-07,Line A,Day,Model A,Dent,37,Conveyor,AGV,284
+2026-02-07,Line A,Day,Model A,Wet,71,Conveyor,Forklift,386
+2026-02-07,Line A,Day,Model A,Dent,110,Conveyor,Conveyor,753
+2026-02-07,Line A,Day,Model A,Crushed,62,Warehouse,Manual,602
+2026-02-07,Line B,Day,Model C,Dent,66,Conveyor,AGV,429
+2026-02-07,Line C,Day,Model B,Dent,59,Conveyor,Forklift,401
+2026-02-07,Line C,Day,Model B,Dent,131,Loading,Forklift,850
+2026-02-07,Line C,Day,Model B,Dent,124,Conveyor,Conveyor,833
+2026-02-07,Line C,Day,Model B,Dent,101,Warehouse,Forklift,662
+2026-02-08,Line A,Day,Model A,Crushed,56,Loading,Forklift,474
+2026-02-08,Line A,Day,Model A,Tear,172,Warehouse,Forklift,1438
+2026-02-08,Line A,Day,Model A,Wet,29,Conveyor,Forklift,184
+2026-02-08,Line A,Day,Model A,Wet,51,Warehouse,Manual,315
+2026-02-08,Line A,Day,Model A,Wet,49,Warehouse,Forklift,269
+2026-02-08,Line B,Day,Model C,Crushed,37,Conveyor,Conveyor,323
+2026-02-08,Line B,Day,Model C,Dent,120,Warehouse,Forklift,779
+2026-02-08,Line B,Day,Model C,Tear,70,Loading,Forklift,528
+2026-02-08,Line B,Day,Model C,Dent,72,Warehouse,Manual,548
+2026-02-08,Line B,Day,Model C,Dent,85,Conveyor,Conveyor,653
+2026-02-08,Line C,Day,Model B,Crushed,79,Conveyor,AGV,649
+2026-02-08,Line C,Day,Model B,Dent,106,Warehouse,Forklift,776
+2026-02-08,Line C,Day,Model B,Tear,86,Warehouse,Forklift,739
+2026-02-08,Line C,Day,Model B,Dent,87,Warehouse,Forklift,583
+2026-02-09,Line A,Night,Model B,Label Damage,37,Loading,AGV,147
+2026-02-09,Line A,Night,Model B,Tear,58,Loading,Conveyor,459
+2026-02-09,Line A,Night,Model B,Dent,56,Conveyor,Conveyor,403
+2026-02-09,Line A,Night,Model B,Dent,103,Warehouse,Forklift,762
+2026-02-09,Line A,Night,Model B,Dent,35,Warehouse,Forklift,231
+2026-02-09,Line B,Night,Model A,Crushed,42,Warehouse,Forklift,402
+2026-02-09,Line B,Night,Model A,Tear,100,Warehouse,Conveyor,826
+2026-02-09,Line C,Night,Model C,Dent,79,Warehouse,Forklift,511
+2026-02-09,Line C,Night,Model C,Dent,79,Conveyor,Manual,502
+2026-02-09,Line C,Night,Model C,Dent,81,Warehouse,Forklift,524
+2026-02-10,Line A,Night,Model B,Tear,74,Loading,Forklift,572
+2026-02-10,Line A,Night,Model B,Dent,89,Warehouse,Forklift,574
+2026-02-10,Line A,Night,Model B,Tear,171,Temporary Area,Forklift,1400
+2026-02-10,Line A,Night,Model B,Dent,77,Conveyor,AGV,507
+2026-02-10,Line B,Night,Model A,Scratch,39,Loading,Forklift,128
+2026-02-10,Line B,Night,Model A,Tear,125,Loading,AGV,930
+2026-02-10,Line B,Night,Model A,Dent,114,Warehouse,Manual,743
+2026-02-10,Line B,Night,Model A,Tear,78,Conveyor,Conveyor,686
+2026-02-11,Line A,Night,Model B,Dent,115,Warehouse,Manual,783
+2026-02-11,Line A,Night,Model B,Dent,139,Temporary Area,Manual,1047
+2026-02-11,Line B,Night,Model A,Tear,118,Temporary Area,Forklift,892
+2026-02-11,Line B,Night,Model A,Crushed,79,Warehouse,Forklift,686
+2026-02-11,Line B,Night,Model A,Crushed,53,Warehouse,AGV,444
+2026-02-11,Line C,Night,Model C,Tear,85,Warehouse,Forklift,736
+2026-02-11,Line C,Night,Model C,Crushed,39,Conveyor,AGV,357
+2026-02-11,Line C,Night,Model C,Tear,157,Warehouse,Forklift,1275
+2026-02-12,Line A,Night,Model B,Label Damage,24,Conveyor,Forklift,99
+2026-02-12,Line A,Night,Model B,Crushed,33,Loading,Manual,284
+2026-02-12,Line A,Night,Model B,Tear,125,Temporary Area,Manual,948
+2026-02-12,Line B,Night,Model A,Dent,46,Loading,Conveyor,325
+2026-02-12,Line B,Night,Model A,Dent,67,Loading,Forklift,442
+2026-02-12,Line C,Night,Model C,Tear,95,Temporary Area,Manual,774
+2026-02-12,Line C,Night,Model C,Tear,148,Loading,Forklift,1135
+2026-02-12,Line C,Night,Model C,Wet,49,Conveyor,Conveyor,306
+2026-02-13,Line A,Night,Model B,Dent,63,Warehouse,Manual,447
+2026-02-13,Line A,Night,Model B,Tear,158,Warehouse,Forklift,1290
+2026-02-13,Line A,Night,Model B,Tear,160,Conveyor,Conveyor,1217
+2026-02-13,Line B,Night,Model A,Tear,73,Temporary Area,Manual,615
+2026-02-13,Line B,Night,Model A,Dent,140,Conveyor,Manual,972
+2026-02-13,Line B,Night,Model A,Dent,54,Conveyor,AGV,348
+2026-02-13,Line B,Night,Model A,Dent,136,Conveyor,Conveyor,951
+2026-02-13,Line C,Night,Model C,Tear,59,Warehouse,Manual,508
+2026-02-13,Line C,Night,Model C,Tear,74,Warehouse,Forklift,554
+2026-02-14,Line A,Night,Model B,Label Damage,14,Loading,Conveyor,61
+2026-02-14,Line A,Night,Model B,Tear,161,Warehouse,Manual,1228
+2026-02-14,Line B,Night,Model A,Crushed,57,Warehouse,Forklift,518
+2026-02-14,Line B,Night,Model A,Wet,44,Warehouse,Conveyor,282
+2026-02-14,Line B,Night,Model A,Label Damage,23,Warehouse,Forklift,90
+2026-02-14,Line C,Night,Model C,Label Damage,14,Temporary Area,Forklift,59
+2026-02-15,Line A,Night,Model B,Tear,40,Warehouse,Manual,328
+2026-02-15,Line A,Night,Model B,Tear,103,Temporary Area,Manual,787
+2026-02-15,Line A,Night,Model B,Tear,150,Warehouse,Forklift,1126
+2026-02-15,Line A,Night,Model B,Tear,103,Warehouse,Forklift,855
+2026-02-15,Line A,Night,Model B,Label Damage,36,Temporary Area,Forklift,131
+2026-02-15,Line A,Night,Model B,Crushed,27,Loading,Conveyor,221
+2026-02-15,Line B,Night,Model A,Scratch,19,Conveyor,Forklift,60
+2026-02-15,Line B,Night,Model A,Crushed,71,Conveyor,Conveyor,575
+2026-02-15,Line B,Night,Model A,Dent,77,Warehouse,Forklift,521
+2026-02-16,Line A,Day,Model C,Scratch,11,Conveyor,AGV,34
+2026-02-16,Line A,Day,Model C,Dent,37,Temporary Area,Manual,237
+2026-02-16,Line B,Day,Model B,Wet,27,Warehouse,Forklift,162
+2026-02-16,Line B,Day,Model B,Label Damage,51,Loading,Forklift,186
+2026-02-16,Line B,Day,Model B,Tear,64,Loading,Manual,475
+2026-02-16,Line B,Day,Model B,Tear,74,Warehouse,Forklift,616
+2026-02-16,Line B,Day,Model B,Dent,96,Loading,Forklift,617
+2026-02-16,Line B,Day,Model B,Tear,83,Loading,AGV,719
+2026-02-16,Line C,Day,Model A,Tear,169,Warehouse,Forklift,1312
+2026-02-16,Line C,Day,Model A,Crushed,73,Conveyor,Conveyor,690
+2026-02-16,Line C,Day,Model A,Tear,60,Warehouse,Forklift,464
+2026-02-17,Line A,Day,Model C,Crushed,43,Temporary Area,Manual,386
+2026-02-17,Line A,Day,Model C,Dent,107,Loading,Forklift,689
+2026-02-17,Line A,Day,Model C,Tear,73,Temporary Area,Forklift,567
+2026-02-17,Line A,Day,Model C,Tear,79,Conveyor,Conveyor,685
+2026-02-17,Line B,Day,Model B,Dent,103,Conveyor,Forklift,717
+2026-02-17,Line C,Day,Model A,Crushed,90,Warehouse,Forklift,821
+2026-02-17,Line C,Day,Model A,Tear,81,Loading,Forklift,645
+2026-02-17,Line C,Day,Model A,Tear,50,Warehouse,Forklift,421
+2026-02-17,Line C,Day,Model A,Label Damage,25,Temporary Area,Forklift,103
+2026-02-18,Line A,Day,Model C,Dent,101,Warehouse,Forklift,650
+2026-02-18,Line A,Day,Model C,Tear,59,Warehouse,Manual,433
+2026-02-18,Line A,Day,Model C,Dent,80,Loading,Forklift,569
+2026-02-18,Line A,Day,Model C,Dent,74,Temporary Area,Forklift,518
+2026-02-18,Line A,Day,Model C,Dent,120,Temporary Area,Forklift,810
+2026-02-18,Line A,Day,Model C,Tear,86,Loading,AGV,628
+2026-02-18,Line C,Day,Model A,Label Damage,12,Conveyor,AGV,49
+2026-02-19,Line A,Day,Model C,Crushed,83,Warehouse,Forklift,674
+2026-02-19,Line B,Day,Model B,Dent,67,Temporary Area,Forklift,448
+2026-02-19,Line B,Day,Model B,Tear,66,Warehouse,Forklift,531
+2026-02-19,Line B,Day,Model B,Wet,37,Loading,Forklift,215
+2026-02-19,Line B,Day,Model B,Wet,60,Warehouse,Forklift,372
+2026-02-19,Line B,Day,Model B,Crushed,60,Loading,Manual,528
+2026-02-19,Line B,Day,Model B,Tear,43,Warehouse,Forklift,344
+2026-02-19,Line C,Day,Model A,Tear,86,Loading,Forklift,701
+2026-02-19,Line C,Day,Model A,Tear,86,Loading,Forklift,638
+2026-02-19,Line C,Day,Model A,Dent,107,Conveyor,Conveyor,802
+2026-02-19,Line C,Day,Model A,Tear,125,Warehouse,Forklift,1083
+2026-02-20,Line A,Day,Model C,Dent,31,Temporary Area,Forklift,214
+2026-02-20,Line A,Day,Model C,Tear,73,Loading,Forklift,529
+2026-02-20,Line A,Day,Model C,Crushed,97,Conveyor,AGV,805
+2026-02-20,Line A,Day,Model C,Dent,93,Temporary Area,Manual,654
+2026-02-20,Line A,Day,Model C,Wet,69,Loading,Conveyor,415
+2026-02-20,Line A,Day,Model C,Tear,150,Warehouse,Forklift,1112
+2026-02-20,Line B,Day,Model B,Tear,132,Loading,Forklift,1117
+2026-02-21,Line A,Day,Model C,Dent,113,Conveyor,Forklift,842
+2026-02-21,Line A,Day,Model C,Dent,140,Conveyor,Manual,931
+2026-02-21,Line A,Day,Model C,Tear,102,Temporary Area,Manual,736
+2026-02-21,Line A,Day,Model C,Dent,68,Warehouse,Forklift,432
+2026-02-21,Line A,Day,Model C,Tear,42,Conveyor,Conveyor,353
+2026-02-21,Line B,Day,Model B,Tear,135,Loading,AGV,1175
+2026-02-21,Line B,Day,Model B,Wet,31,Loading,Forklift,197
+2026-02-21,Line B,Day,Model B,Tear,103,Loading,Forklift,872
+2026-02-21,Line B,Day,Model B,Dent,125,Warehouse,Forklift,864
+2026-02-21,Line C,Day,Model A,Dent,146,Warehouse,Conveyor,1110
+2026-02-21,Line C,Day,Model A,Dent,39,Loading,Forklift,276
+2026-02-21,Line C,Day,Model A,Dent,130,Warehouse,Manual,955
+2026-02-22,Line A,Day,Model C,Wet,52,Temporary Area,Manual,326
+2026-02-22,Line A,Day,Model C,Crushed,85,Conveyor,Forklift,752
+2026-02-22,Line A,Day,Model C,Dent,146,Loading,Forklift,1036
+2026-02-22,Line B,Day,Model B,Wet,61,Conveyor,Conveyor,342
+2026-02-22,Line B,Day,Model B,Dent,103,Conveyor,Conveyor,665
+2026-02-22,Line B,Day,Model B,Dent,134,Warehouse,Forklift,865
+2026-02-22,Line B,Day,Model B,Tear,107,Conveyor,Conveyor,773
+2026-02-22,Line B,Day,Model B,Dent,35,Loading,Forklift,259
+2026-02-22,Line B,Day,Model B,Tear,72,Temporary Area,Manual,621
+2026-02-22,Line B,Day,Model B,Dent,66,Conveyor,Conveyor,446
+2026-02-22,Line C,Day,Model A,Wet,33,Conveyor,Conveyor,199
+2026-02-22,Line C,Day,Model A,Tear,88,Conveyor,Conveyor,764
+2026-02-22,Line C,Day,Model A,Dent,102,Loading,Forklift,772
+2026-02-23,Line A,Night,Model A,Tear,110,Warehouse,Forklift,860
+2026-02-23,Line A,Night,Model A,Wet,25,Loading,Forklift,158
+2026-02-23,Line A,Night,Model A,Crushed,25,Loading,Forklift,244
+2026-02-23,Line A,Night,Model A,Crushed,79,Loading,Forklift,682
+2026-02-23,Line A,Night,Model A,Crushed,82,Conveyor,Forklift,677
+2026-02-23,Line A,Night,Model A,Tear,143,Warehouse,AGV,1247
+2026-02-23,Line A,Night,Model A,Dent,135,Warehouse,Forklift,945
+2026-02-23,Line A,Night,Model A,Tear,110,Conveyor,AGV,835
+2026-02-23,Line B,Night,Model C,Tear,60,Loading,Manual,490
+2026-02-23,Line B,Night,Model C,Dent,130,Warehouse,Forklift,994
+2026-02-23,Line C,Night,Model B,Dent,68,Conveyor,Conveyor,490
+2026-02-23,Line C,Night,Model B,Tear,112,Temporary Area,Forklift,881
+2026-02-23,Line C,Night,Model B,Dent,101,Conveyor,Forklift,667
+2026-02-23,Line C,Night,Model B,Crushed,77,Warehouse,Forklift,737
+2026-02-24,Line A,Night,Model A,Dent,33,Conveyor,Forklift,222
+2026-02-24,Line A,Night,Model A,Tear,146,Warehouse,Forklift,1071
+2026-02-24,Line A,Night,Model A,Tear,84,Conveyor,Forklift,612
+2026-02-24,Line B,Night,Model C,Dent,146,Warehouse,Forklift,1037
+2026-02-24,Line B,Night,Model C,Tear,93,Temporary Area,Manual,721
+2026-02-24,Line B,Night,Model C,Crushed,94,Conveyor,Conveyor,808
+2026-02-24,Line B,Night,Model C,Tear,120,Temporary Area,Manual,946
+2026-02-24,Line C,Night,Model B,Tear,89,Loading,AGV,646
+2026-02-24,Line C,Night,Model B,Dent,75,Loading,Forklift,551
+2026-02-25,Line A,Night,Model A,Dent,80,Conveyor,Conveyor,581
+2026-02-25,Line A,Night,Model A,Tear,120,Warehouse,Forklift,993
+2026-02-25,Line A,Night,Model A,Dent,52,Loading,Manual,400
+2026-02-25,Line B,Night,Model C,Dent,121,Loading,Conveyor,925
+2026-02-25,Line B,Night,Model C,Tear,116,Loading,Manual,1004
+2026-02-25,Line B,Night,Model C,Dent,142,Temporary Area,Manual,1088
+2026-02-25,Line B,Night,Model C,Tear,151,Loading,Manual,1138
+2026-02-25,Line B,Night,Model C,Tear,101,Conveyor,Conveyor,742
+2026-02-25,Line B,Night,Model C,Crushed,81,Conveyor,Forklift,685
+2026-02-25,Line B,Night,Model C,Tear,83,Loading,Forklift,697
+2026-02-25,Line B,Night,Model C,Dent,63,Warehouse,Forklift,479
+2026-02-25,Line B,Night,Model C,Tear,78,Conveyor,AGV,573
+2026-02-25,Line C,Night,Model B,Crushed,37,Warehouse,Forklift,342
+2026-02-26,Line A,Night,Model A,Wet,58,Conveyor,AGV,350
+2026-02-26,Line A,Night,Model A,Label Damage,56,Conveyor,AGV,233
+2026-02-26,Line A,Night,Model A,Tear,88,Warehouse,Forklift,655
+2026-02-26,Line A,Night,Model A,Dent,88,Warehouse,Manual,606
+2026-02-26,Line A,Night,Model A,Tear,148,Warehouse,Forklift,1140
+2026-02-26,Line A,Night,Model A,Tear,103,Warehouse,Forklift,845
+2026-02-26,Line A,Night,Model A,Label Damage,43,Conveyor,Conveyor,160
+2026-02-26,Line A,Night,Model A,Dent,67,Warehouse,Forklift,462
+2026-02-26,Line A,Night,Model A,Tear,94,Loading,Manual,792
+2026-02-26,Line A,Night,Model A,Dent,95,Warehouse,Forklift,671
+2026-02-26,Line B,Night,Model C,Dent,116,Loading,Forklift,778
+2026-02-26,Line B,Night,Model C,Dent,121,Temporary Area,Manual,810
+2026-02-26,Line B,Night,Model C,Dent,125,Warehouse,Manual,894
+2026-02-26,Line B,Night,Model C,Label Damage,41,Loading,Forklift,155
+2026-02-26,Line C,Night,Model B,Tear,138,Loading,Forklift,1042
+2026-02-26,Line C,Night,Model B,Crushed,54,Loading,Forklift,483
+2026-02-27,Line A,Night,Model A,Dent,39,Loading,Forklift,271
+2026-02-27,Line A,Night,Model A,Tear,154,Warehouse,Forklift,1355
+2026-02-27,Line A,Night,Model A,Dent,44,Temporary Area,Forklift,278
+2026-02-27,Line A,Night,Model A,Dent,86,Conveyor,Manual,598
+2026-02-27,Line B,Night,Model C,Scratch,29,Warehouse,Conveyor,83
+2026-02-27,Line C,Night,Model B,Dent,119,Loading,AGV,816
+2026-02-27,Line C,Night,Model B,Tear,83,Warehouse,Forklift,705
+2026-02-28,Line A,Night,Model A,Dent,140,Loading,Forklift,1011
+2026-02-28,Line A,Night,Model A,Dent,95,Conveyor,Forklift,645
+2026-02-28,Line A,Night,Model A,Label Damage,22,Loading,Forklift,94
+2026-02-28,Line A,Night,Model A,Tear,115,Conveyor,AGV,936
+2026-02-28,Line A,Night,Model A,Dent,38,Loading,Forklift,258
+2026-02-28,Line A,Night,Model A,Dent,61,Warehouse,Forklift,391
+2026-02-28,Line A,Night,Model A,Tear,156,Loading,Forklift,1343
+2026-02-28,Line A,Night,Model A,Tear,64,Conveyor,Forklift,491
+2026-02-28,Line A,Night,Model A,Dent,120,Temporary Area,AGV,768
+2026-02-28,Line A,Night,Model A,Dent,115,Temporary Area,AGV,742
+2026-02-28,Line A,Night,Model A,Dent,45,Warehouse,Forklift,301
+2026-02-28,Line B,Night,Model C,Dent,113,Warehouse,Forklift,735
+2026-02-28,Line C,Night,Model B,Tear,131,Warehouse,Forklift,1047
+2026-02-28,Line C,Night,Model B,Dent,46,Warehouse,Forklift,327
+2026-02-28,Line C,Night,Model B,Tear,100,Warehouse,Forklift,795
+2026-03-01,Line A,Night,Model A,Tear,70,Loading,Forklift,542
+2026-03-01,Line A,Night,Model A,Tear,172,Temporary Area,Manual,1305
+2026-03-01,Line A,Night,Model A,Dent,132,Loading,Forklift,860
+2026-03-01,Line A,Night,Model A,Tear,179,Temporary Area,Manual,1555
+2026-03-01,Line A,Night,Model A,Tear,64,Warehouse,Manual,486
+2026-03-01,Line A,Night,Model A,Dent,137,Loading,Forklift,900
+2026-03-01,Line B,Night,Model C,Tear,71,Warehouse,Manual,525
+2026-03-01,Line B,Night,Model C,Dent,93,Conveyor,Forklift,693
+2026-03-01,Line B,Night,Model C,Dent,75,Conveyor,Conveyor,570
+2026-03-01,Line B,Night,Model C,Dent,71,Warehouse,Forklift,484
+2026-03-01,Line B,Night,Model C,Crushed,41,Loading,AGV,372
+2026-03-01,Line B,Night,Model C,Dent,52,Loading,Conveyor,397
+2026-03-01,Line B,Night,Model C,Dent,65,Temporary Area,Conveyor,474
+2026-03-01,Line B,Night,Model C,Tear,59,Temporary Area,Manual,451
+2026-03-01,Line C,Night,Model B,Dent,124,Warehouse,Forklift,786
+2026-03-01,Line C,Night,Model B,Dent,37,Warehouse,Manual,256
+2026-03-01,Line C,Night,Model B,Tear,61,Loading,Forklift,469
+2026-03-02,Line A,Day,Model B,Tear,120,Loading,Forklift,900
+2026-03-02,Line A,Day,Model B,Tear,157,Loading,Forklift,1287
+2026-03-02,Line A,Day,Model B,Dent,100,Conveyor,AGV,708
+2026-03-02,Line A,Day,Model B,Tear,132,Conveyor,AGV,1101
+2026-03-02,Line B,Day,Model A,Tear,174,Loading,Manual,1387
+2026-03-02,Line B,Day,Model A,Label Damage,25,Warehouse,Conveyor,98
+2026-03-02,Line B,Day,Model A,Scratch,33,Loading,Forklift,105
+2026-03-02,Line B,Day,Model A,Wet,46,Warehouse,Manual,272
+2026-03-02,Line B,Day,Model A,Dent,44,Warehouse,Forklift,330
+2026-03-02,Line B,Day,Model A,Crushed,60,Conveyor,Conveyor,543
+2026-03-02,Line B,Day,Model A,Tear,99,Loading,Forklift,718
+2026-03-02,Line C,Day,Model C,Dent,60,Loading,Forklift,427
+2026-03-02,Line C,Day,Model C,Tear,135,Conveyor,AGV,1017
+2026-03-02,Line C,Day,Model C,Dent,84,Conveyor,Forklift,576
+2026-03-03,Line A,Day,Model B,Dent,136,Loading,Forklift,991
+2026-03-03,Line A,Day,Model B,Scratch,38,Loading,Forklift,115
+2026-03-03,Line B,Day,Model A,Dent,108,Warehouse,AGV,701
+2026-03-03,Line B,Day,Model A,Tear,54,Warehouse,Forklift,451
+2026-03-03,Line B,Day,Model A,Dent,149,Conveyor,Conveyor,963
+2026-03-03,Line B,Day,Model A,Wet,48,Warehouse,Forklift,271
+2026-03-03,Line B,Day,Model A,Crushed,22,Loading,Forklift,208
+2026-03-03,Line B,Day,Model A,Tear,144,Warehouse,Forklift,1083
+2026-03-03,Line C,Day,Model C,Tear,51,Temporary Area,Manual,373
+2026-03-03,Line C,Day,Model C,Scratch,28,Temporary Area,Manual,76
+2026-03-04,Line A,Day,Model B,Wet,77,Temporary Area,Manual,439
+2026-03-04,Line A,Day,Model B,Scratch,24,Loading,Forklift,76
+2026-03-04,Line B,Day,Model A,Dent,105,Conveyor,Conveyor,777
+2026-03-04,Line C,Day,Model C,Wet,57,Warehouse,Forklift,363
+2026-03-04,Line C,Day,Model C,Tear,104,Warehouse,Forklift,890
+2026-03-04,Line C,Day,Model C,Tear,114,Loading,Forklift,995
+2026-03-04,Line C,Day,Model C,Tear,100,Warehouse,AGV,851
+2026-03-05,Line A,Day,Model B,Tear,79,Conveyor,Forklift,605
+2026-03-05,Line A,Day,Model B,Crushed,30,Warehouse,Forklift,250
+2026-03-05,Line A,Day,Model B,Wet,55,Temporary Area,Forklift,311
+2026-03-05,Line A,Day,Model B,Scratch,14,Temporary Area,Manual,38
+2026-03-05,Line A,Day,Model B,Dent,37,Conveyor,Conveyor,256
+2026-03-05,Line A,Day,Model B,Dent,128,Loading,Forklift,934
+2026-03-05,Line A,Day,Model B,Scratch,21,Warehouse,Forklift,58
+2026-03-05,Line A,Day,Model B,Dent,31,Temporary Area,Forklift,218
+2026-03-05,Line A,Day,Model B,Crushed,70,Conveyor,Forklift,567
+2026-03-05,Line A,Day,Model B,Dent,32,Loading,AGV,219
+2026-03-05,Line B,Day,Model A,Tear,159,Temporary Area,Manual,1333
+2026-03-05,Line B,Day,Model A,Wet,57,Conveyor,AGV,312
+2026-03-05,Line B,Day,Model A,Dent,142,Conveyor,Conveyor,898
+2026-03-06,Line A,Day,Model B,Dent,71,Loading,Forklift,523
+2026-03-06,Line A,Day,Model B,Wet,76,Conveyor,Forklift,427
+2026-03-06,Line A,Day,Model B,Tear,108,Temporary Area,Manual,897
+2026-03-06,Line B,Day,Model A,Dent,137,Conveyor,Manual,1006
+2026-03-06,Line B,Day,Model A,Tear,101,Loading,Forklift,797
+2026-03-06,Line B,Day,Model A,Tear,60,Loading,Forklift,448
+2026-03-06,Line B,Day,Model A,Dent,117,Loading,Forklift,884
+2026-03-07,Line A,Day,Model B,Wet,27,Conveyor,AGV,151
+2026-03-07,Line A,Day,Model B,Crushed,29,Temporary Area,Manual,262
+2026-03-07,Line A,Day,Model B,Dent,121,Warehouse,Forklift,793
+2026-03-07,Line B,Day,Model A,Tear,117,Loading,Forklift,913
+2026-03-07,Line B,Day,Model A,Wet,74,Warehouse,Forklift,404
+2026-03-07,Line B,Day,Model A,Crushed,95,Warehouse,Forklift,861
+2026-03-07,Line B,Day,Model A,Tear,148,Loading,Forklift,1138
+2026-03-07,Line B,Day,Model A,Tear,89,Temporary Area,Manual,695
+2026-03-07,Line C,Day,Model C,Tear,122,Warehouse,Forklift,1054
+2026-03-08,Line A,Day,Model B,Tear,78,Warehouse,Forklift,671
+2026-03-08,Line A,Day,Model B,Wet,35,Loading,Forklift,205
+2026-03-08,Line A,Day,Model B,Dent,45,Temporary Area,Manual,345
+2026-03-08,Line A,Day,Model B,Dent,131,Warehouse,Manual,887
+2026-03-08,Line A,Day,Model B,Tear,138,Temporary Area,Manual,1087
+2026-03-08,Line B,Day,Model A,Tear,155,Loading,Forklift,1362
+2026-03-08,Line B,Day,Model A,Tear,42,Conveyor,AGV,305
+2026-03-08,Line B,Day,Model A,Dent,107,Warehouse,Manual,710
+2026-03-08,Line C,Day,Model C,Wet,26,Loading,Forklift,149
+2026-03-08,Line C,Day,Model C,Dent,43,Conveyor,Forklift,331
+2026-03-08,Line C,Day,Model C,Tear,179,Warehouse,Forklift,1430
+2026-03-08,Line C,Day,Model C,Wet,46,Conveyor,Conveyor,274
+2026-03-08,Line C,Day,Model C,Dent,85,Warehouse,Forklift,584
+2026-03-09,Line A,Night,Model C,Wet,40,Warehouse,Forklift,230
+2026-03-09,Line A,Night,Model C,Dent,147,Loading,Forklift,944
+2026-03-09,Line A,Night,Model C,Dent,59,Warehouse,Conveyor,432
+2026-03-09,Line A,Night,Model C,Dent,130,Warehouse,Manual,919
+2026-03-09,Line B,Night,Model B,Dent,58,Conveyor,Conveyor,395
+2026-03-09,Line B,Night,Model B,Tear,135,Temporary Area,Forklift,1049
+2026-03-09,Line B,Night,Model B,Tear,109,Conveyor,AGV,911
+2026-03-09,Line B,Night,Model B,Tear,72,Loading,Forklift,596
+2026-03-09,Line B,Night,Model B,Tear,40,Loading,Manual,334
+2026-03-10,Line A,Night,Model C,Dent,106,Conveyor,Conveyor,753
+2026-03-10,Line A,Night,Model C,Tear,117,Conveyor,Conveyor,911
+2026-03-10,Line A,Night,Model C,Wet,74,Conveyor,Forklift,443
+2026-03-10,Line A,Night,Model C,Tear,51,Loading,Manual,437
+2026-03-10,Line A,Night,Model C,Scratch,7,Loading,Manual,23
+2026-03-10,Line B,Night,Model B,Tear,110,Conveyor,AGV,824
+2026-03-10,Line B,Night,Model B,Tear,87,Loading,Forklift,764
+2026-03-10,Line B,Night,Model B,Dent,140,Temporary Area,Manual,1050
+2026-03-10,Line B,Night,Model B,Tear,61,Temporary Area,Forklift,469
+2026-03-10,Line B,Night,Model B,Dent,133,Warehouse,Forklift,891
+2026-03-10,Line C,Night,Model A,Dent,120,Temporary Area,Forklift,907
+2026-03-10,Line C,Night,Model A,Tear,129,Loading,Manual,997
+2026-03-11,Line A,Night,Model C,Dent,114,Warehouse,Forklift,727
+2026-03-11,Line A,Night,Model C,Tear,130,Temporary Area,Manual,982
+2026-03-11,Line B,Night,Model B,Dent,98,Warehouse,Forklift,743
+2026-03-11,Line C,Night,Model A,Wet,79,Conveyor,Conveyor,438
+2026-03-11,Line C,Night,Model A,Dent,43,Warehouse,Conveyor,305
+2026-03-12,Line A,Night,Model C,Dent,42,Conveyor,Forklift,285
+2026-03-12,Line A,Night,Model C,Wet,44,Warehouse,Forklift,239
+2026-03-12,Line A,Night,Model C,Tear,82,Temporary Area,Manual,605
+2026-03-12,Line A,Night,Model C,Tear,140,Conveyor,Forklift,1018
+2026-03-12,Line B,Night,Model B,Wet,76,Warehouse,Manual,433
+2026-03-12,Line B,Night,Model B,Crushed,50,Conveyor,Conveyor,441
+2026-03-12,Line B,Night,Model B,Dent,110,Loading,Forklift,844
+2026-03-12,Line B,Night,Model B,Dent,60,Warehouse,Forklift,403
+2026-03-12,Line B,Night,Model B,Tear,58,Warehouse,Forklift,450
+2026-03-12,Line C,Night,Model A,Tear,88,Warehouse,Manual,697
+2026-03-12,Line C,Night,Model A,Dent,47,Loading,Forklift,301
+2026-03-12,Line C,Night,Model A,Tear,48,Conveyor,Conveyor,377
+2026-03-12,Line C,Night,Model A,Tear,124,Conveyor,AGV,940
+2026-03-12,Line C,Night,Model A,Wet,27,Warehouse,Manual,150
+2026-03-13,Line A,Night,Model C,Tear,46,Warehouse,Forklift,377
+2026-03-13,Line A,Night,Model C,Wet,31,Warehouse,Forklift,181
+2026-03-13,Line A,Night,Model C,Dent,93,Conveyor,AGV,640
+2026-03-13,Line A,Night,Model C,Scratch,16,Temporary Area,Forklift,48
+2026-03-13,Line B,Night,Model B,Tear,110,Warehouse,Manual,862
+2026-03-13,Line B,Night,Model B,Tear,150,Warehouse,Forklift,1183
+2026-03-13,Line B,Night,Model B,Tear,50,Loading,Forklift,385
+2026-03-13,Line B,Night,Model B,Scratch,18,Loading,AGV,58
+2026-03-13,Line B,Night,Model B,Tear,175,Temporary Area,Manual,1452
+2026-03-13,Line C,Night,Model A,Tear,72,Conveyor,AGV,540
+2026-03-14,Line A,Night,Model C,Dent,51,Loading,Conveyor,350
+2026-03-14,Line A,Night,Model C,Dent,51,Loading,Forklift,370
+2026-03-14,Line A,Night,Model C,Dent,92,Conveyor,AGV,582
+2026-03-14,Line A,Night,Model C,Tear,166,Loading,Forklift,1385
+2026-03-14,Line A,Night,Model C,Tear,117,Loading,Manual,919
+2026-03-14,Line B,Night,Model B,Wet,17,Temporary Area,Manual,107
+2026-03-14,Line B,Night,Model B,Tear,135,Conveyor,Conveyor,974
+2026-03-14,Line B,Night,Model B,Tear,101,Conveyor,Forklift,772
+2026-03-14,Line C,Night,Model A,Dent,80,Loading,Forklift,527
+2026-03-14,Line C,Night,Model A,Crushed,89,Conveyor,Conveyor,873
+2026-03-14,Line C,Night,Model A,Dent,40,Temporary Area,Manual,268
+2026-03-15,Line A,Night,Model C,Tear,168,Warehouse,Forklift,1326
+2026-03-15,Line A,Night,Model C,Tear,128,Warehouse,Manual,1028
+2026-03-15,Line A,Night,Model C,Dent,68,Loading,Forklift,463
+2026-03-15,Line A,Night,Model C,Tear,94,Warehouse,Manual,728
+2026-03-15,Line A,Night,Model C,Wet,22,Conveyor,Conveyor,129
+2026-03-15,Line B,Night,Model B,Dent,113,Warehouse,Forklift,792
+2026-03-15,Line B,Night,Model B,Wet,56,Conveyor,Conveyor,314
+2026-03-15,Line B,Night,Model B,Wet,33,Warehouse,Manual,213
+2026-03-15,Line B,Night,Model B,Tear,151,Temporary Area,Manual,1200
+2026-03-15,Line C,Night,Model A,Dent,44,Warehouse,Forklift,331
+2026-03-15,Line C,Night,Model A,Dent,108,Warehouse,Forklift,789
+2026-03-15,Line C,Night,Model A,Tear,107,Conveyor,Conveyor,905
+2026-03-15,Line C,Night,Model A,Tear,149,Temporary Area,Manual,1245
+2026-03-15,Line C,Night,Model A,Dent,73,Conveyor,Forklift,465
+2026-03-15,Line C,Night,Model A,Dent,96,Conveyor,AGV,685
+2026-03-15,Line C,Night,Model A,Crushed,84,Warehouse,Manual,715
+2026-03-16,Line A,Day,Model A,Wet,58,Warehouse,Forklift,324
+2026-03-16,Line A,Day,Model A,Tear,140,Warehouse,Forklift,1061
+2026-03-16,Line A,Day,Model A,Tear,121,Warehouse,Forklift,991
+2026-03-16,Line A,Day,Model A,Dent,33,Warehouse,Forklift,248
+2026-03-16,Line B,Day,Model C,Crushed,81,Temporary Area,AGV,701
+2026-03-16,Line B,Day,Model C,Tear,71,Warehouse,Forklift,583
+2026-03-16,Line B,Day,Model C,Tear,103,Conveyor,AGV,882
+2026-03-16,Line C,Day,Model B,Tear,40,Warehouse,Forklift,327
+2026-03-16,Line C,Day,Model B,Tear,129,Loading,Manual,938
+2026-03-16,Line C,Day,Model B,Dent,49,Conveyor,Conveyor,357
+2026-03-17,Line A,Day,Model A,Crushed,88,Warehouse,Forklift,790
+2026-03-17,Line A,Day,Model A,Dent,90,Temporary Area,Forklift,673
+2026-03-17,Line A,Day,Model A,Wet,36,Warehouse,Manual,213
+2026-03-17,Line B,Day,Model C,Tear,125,Conveyor,Conveyor,1005
+2026-03-17,Line B,Day,Model C,Dent,122,Conveyor,Forklift,920
+2026-03-17,Line C,Day,Model B,Tear,66,Warehouse,Forklift,581
+2026-03-17,Line C,Day,Model B,Tear,129,Conveyor,Conveyor,975
+2026-03-18,Line A,Day,Model A,Dent,147,Loading,Forklift,938
+2026-03-18,Line A,Day,Model A,Tear,100,Warehouse,Forklift,868
+2026-03-18,Line A,Day,Model A,Dent,47,Temporary Area,Manual,314
+2026-03-18,Line A,Day,Model A,Dent,57,Warehouse,Forklift,399
+2026-03-18,Line B,Day,Model C,Tear,103,Temporary Area,Manual,837
+2026-03-18,Line B,Day,Model C,Dent,39,Temporary Area,Forklift,289
+2026-03-18,Line B,Day,Model C,Dent,79,Conveyor,AGV,543
+2026-03-18,Line C,Day,Model B,Dent,146,Loading,Manual,1035
+2026-03-18,Line C,Day,Model B,Tear,160,Loading,Forklift,1363
+2026-03-18,Line C,Day,Model B,Dent,99,Warehouse,Forklift,740
+2026-03-18,Line C,Day,Model B,Tear,111,Loading,Manual,965
+2026-03-19,Line A,Day,Model A,Dent,42,Temporary Area,Manual,297
+2026-03-19,Line A,Day,Model A,Dent,81,Warehouse,Forklift,535
+2026-03-19,Line A,Day,Model A,Wet,75,Conveyor,AGV,425
+2026-03-19,Line A,Day,Model A,Dent,51,Conveyor,Conveyor,325
+2026-03-19,Line C,Day,Model B,Tear,85,Conveyor,AGV,734
+2026-03-19,Line C,Day,Model B,Dent,130,Conveyor,Conveyor,939
+2026-03-19,Line C,Day,Model B,Tear,54,Warehouse,Forklift,389
+2026-03-20,Line A,Day,Model A,Dent,37,Loading,Manual,252
+2026-03-20,Line A,Day,Model A,Crushed,71,Warehouse,Forklift,655
+2026-03-20,Line A,Day,Model A,Wet,61,Warehouse,Forklift,333
+2026-03-20,Line A,Day,Model A,Tear,176,Loading,Forklift,1452
+2026-03-20,Line A,Day,Model A,Dent,93,Loading,Forklift,593
+2026-03-20,Line A,Day,Model A,Wet,44,Loading,Forklift,268
+2026-03-20,Line B,Day,Model C,Dent,137,Temporary Area,Conveyor,948
+2026-03-20,Line B,Day,Model C,Tear,179,Conveyor,Conveyor,1338
+2026-03-20,Line C,Day,Model B,Tear,76,Warehouse,Forklift,660
+2026-03-21,Line A,Day,Model A,Dent,121,Temporary Area,Forklift,831
+2026-03-21,Line B,Day,Model C,Tear,167,Warehouse,Forklift,1352
+2026-03-21,Line B,Day,Model C,Tear,151,Loading,Forklift,1120
+2026-03-22,Line A,Day,Model A,Crushed,55,Temporary Area,Manual,456
+2026-03-22,Line A,Day,Model A,Dent,146,Temporary Area,Manual,982
+2026-03-22,Line A,Day,Model A,Tear,81,Loading,Forklift,649
+2026-03-22,Line A,Day,Model A,Tear,52,Conveyor,Forklift,380
+2026-03-22,Line A,Day,Model A,Tear,107,Loading,Conveyor,920
+2026-03-22,Line B,Day,Model C,Dent,134,Temporary Area,Manual,913
+2026-03-22,Line B,Day,Model C,Tear,163,Conveyor,Forklift,1413
+2026-03-22,Line B,Day,Model C,Dent,101,Warehouse,AGV,758
+2026-03-22,Line C,Day,Model B,Crushed,86,Conveyor,AGV,849
+2026-03-22,Line C,Day,Model B,Tear,64,Warehouse,Forklift,518
+2026-03-22,Line C,Day,Model B,Tear,149,Temporary Area,Manual,1180
+2026-03-22,Line C,Day,Model B,Wet,79,Loading,Manual,521
+2026-03-23,Line A,Night,Model B,Dent,100,Loading,Manual,677
+2026-03-23,Line A,Night,Model B,Tear,122,Conveyor,Manual,914
+2026-03-23,Line B,Night,Model A,Dent,65,Warehouse,Forklift,413
+2026-03-23,Line B,Night,Model A,Wet,47,Warehouse,Forklift,290
+2026-03-23,Line B,Night,Model A,Wet,20,Warehouse,Forklift,112
+2026-03-23,Line C,Night,Model C,Crushed,52,Warehouse,Forklift,494
+2026-03-23,Line C,Night,Model C,Dent,72,Loading,Manual,482
+2026-03-23,Line C,Night,Model C,Tear,139,Conveyor,Forklift,1067
+2026-03-23,Line C,Night,Model C,Tear,121,Loading,Manual,1000
+2026-03-24,Line A,Night,Model B,Crushed,87,Temporary Area,Manual,846
+2026-03-24,Line A,Night,Model B,Wet,24,Conveyor,AGV,152
+2026-03-24,Line A,Night,Model B,Wet,46,Warehouse,Forklift,250
+2026-03-24,Line A,Night,Model B,Dent,149,Warehouse,Manual,992
+2026-03-24,Line A,Night,Model B,Crushed,36,Conveyor,Forklift,337
+2026-03-24,Line A,Night,Model B,Crushed,37,Warehouse,Forklift,352
+2026-03-24,Line A,Night,Model B,Tear,80,Loading,Forklift,648
+2026-03-24,Line A,Night,Model B,Dent,141,Conveyor,AGV,974
+2026-03-24,Line A,Night,Model B,Dent,74,Warehouse,Forklift,470
+2026-03-24,Line B,Night,Model A,Dent,112,Temporary Area,Manual,731
+2026-03-24,Line B,Night,Model A,Tear,55,Conveyor,Conveyor,425
+2026-03-24,Line B,Night,Model A,Tear,148,Warehouse,Manual,1073
+2026-03-24,Line C,Night,Model C,Dent,33,Loading,Forklift,251
+2026-03-24,Line C,Night,Model C,Dent,30,Warehouse,AGV,228
+2026-03-25,Line A,Night,Model B,Wet,64,Temporary Area,Forklift,356
+2026-03-25,Line A,Night,Model B,Crushed,32,Loading,Conveyor,315
+2026-03-25,Line A,Night,Model B,Tear,142,Conveyor,Conveyor,1124
+2026-03-25,Line A,Night,Model B,Tear,115,Loading,Manual,860
+2026-03-25,Line A,Night,Model B,Label Damage,10,Warehouse,Forklift,38
+2026-03-25,Line A,Night,Model B,Tear,130,Temporary Area,Manual,958
+2026-03-25,Line B,Night,Model A,Dent,107,Loading,Forklift,816
+2026-03-25,Line B,Night,Model A,Tear,48,Temporary Area,Manual,362
+2026-03-25,Line B,Night,Model A,Dent,121,Conveyor,Manual,762
+2026-03-25,Line B,Night,Model A,Tear,43,Conveyor,Forklift,372
+2026-03-25,Line C,Night,Model C,Crushed,90,Loading,Forklift,781
+2026-03-25,Line C,Night,Model C,Wet,30,Temporary Area,Forklift,173
+2026-03-26,Line A,Night,Model B,Tear,105,Warehouse,Forklift,903
+2026-03-26,Line B,Night,Model A,Tear,127,Loading,Forklift,981
+2026-03-26,Line B,Night,Model A,Tear,107,Conveyor,AGV,795
+2026-03-26,Line B,Night,Model A,Dent,53,Warehouse,Forklift,366
+2026-03-26,Line B,Night,Model A,Dent,141,Temporary Area,Forklift,927
+2026-03-26,Line C,Night,Model C,Wet,34,Conveyor,Conveyor,208
+2026-03-26,Line C,Night,Model C,Tear,132,Temporary Area,Forklift,1077
+2026-03-26,Line C,Night,Model C,Dent,95,Temporary Area,Manual,728
+2026-03-26,Line C,Night,Model C,Dent,136,Warehouse,Manual,869
+2026-03-26,Line C,Night,Model C,Tear,80,Loading,Forklift,689
+2026-03-27,Line A,Night,Model B,Tear,145,Temporary Area,Forklift,1198
+2026-03-27,Line A,Night,Model B,Tear,74,Conveyor,Forklift,550
+2026-03-27,Line A,Night,Model B,Tear,158,Conveyor,Forklift,1170
+2026-03-27,Line A,Night,Model B,Scratch,16,Loading,Manual,50
+2026-03-27,Line A,Night,Model B,Dent,144,Warehouse,Forklift,1052
+2026-03-27,Line B,Night,Model A,Tear,140,Warehouse,Manual,1213
+2026-03-27,Line B,Night,Model A,Dent,147,Warehouse,Manual,940
+2026-03-27,Line B,Night,Model A,Wet,49,Conveyor,AGV,297
+2026-03-27,Line B,Night,Model A,Tear,81,Warehouse,Manual,589
+2026-03-27,Line B,Night,Model A,Crushed,76,Loading,Forklift,701
+2026-03-27,Line B,Night,Model A,Tear,175,Conveyor,Forklift,1279
+2026-03-27,Line B,Night,Model A,Dent,102,Loading,Forklift,730
+2026-03-28,Line A,Night,Model B,Dent,48,Warehouse,Forklift,310
+2026-03-28,Line A,Night,Model B,Dent,38,Loading,Forklift,242
+2026-03-28,Line A,Night,Model B,Dent,105,Loading,Forklift,717
+2026-03-28,Line A,Night,Model B,Dent,124,Loading,Forklift,795
+2026-03-28,Line B,Night,Model A,Tear,151,Temporary Area,Forklift,1119
+2026-03-28,Line B,Night,Model A,Crushed,83,Warehouse,Forklift,751
+2026-03-28,Line B,Night,Model A,Tear,172,Loading,Forklift,1484
+2026-03-28,Line B,Night,Model A,Dent,60,Conveyor,Conveyor,451
+2026-03-28,Line B,Night,Model A,Tear,127,Loading,Forklift,948
+2026-03-28,Line C,Night,Model C,Tear,166,Warehouse,Manual,1199
+2026-03-28,Line C,Night,Model C,Tear,54,Loading,Forklift,436
+2026-03-28,Line C,Night,Model C,Tear,164,Conveyor,Forklift,1377
+2026-03-28,Line C,Night,Model C,Tear,133,Temporary Area,Forklift,969
+2026-03-29,Line A,Night,Model B,Crushed,88,Warehouse,Forklift,856
+2026-03-29,Line A,Night,Model B,Wet,50,Loading,Forklift,303
+2026-03-29,Line B,Night,Model A,Wet,65,Conveyor,AGV,359
+2026-03-29,Line B,Night,Model A,Crushed,73,Warehouse,Forklift,696
+2026-03-29,Line B,Night,Model A,Wet,72,Temporary Area,Manual,467
+2026-03-29,Line C,Night,Model C,Dent,88,Conveyor,Conveyor,630
+2026-03-29,Line C,Night,Model C,Dent,144,Conveyor,AGV,1052
+2026-03-30,Line A,Day,Model C,Tear,46,Temporary Area,AGV,334
+2026-03-30,Line A,Day,Model C,Dent,146,Loading,Conveyor,937
+2026-03-30,Line A,Day,Model C,Dent,81,Loading,Forklift,516
+2026-03-30,Line A,Day,Model C,Tear,73,Loading,AGV,634
+2026-03-30,Line B,Day,Model B,Tear,62,Loading,Manual,470
+2026-03-30,Line B,Day,Model B,Dent,135,Warehouse,Forklift,984
+2026-03-30,Line B,Day,Model B,Dent,75,Temporary Area,Manual,577
+2026-03-30,Line C,Day,Model A,Crushed,99,Conveyor,Forklift,925
+2026-03-30,Line C,Day,Model A,Tear,54,Loading,Forklift,434
+2026-03-30,Line C,Day,Model A,Wet,55,Temporary Area,Manual,324
+2026-03-30,Line C,Day,Model A,Dent,103,Conveyor,Conveyor,754
+2026-03-30,Line C,Day,Model A,Crushed,60,Conveyor,Conveyor,568
+2026-03-31,Line A,Day,Model C,Crushed,39,Loading,Forklift,330
+2026-03-31,Line A,Day,Model C,Tear,82,Loading,Forklift,701
+2026-03-31,Line B,Day,Model B,Tear,88,Temporary Area,Manual,745
+2026-03-31,Line B,Day,Model B,Dent,93,Warehouse,Forklift,671
+2026-03-31,Line C,Day,Model A,Wet,19,Loading,Forklift,111
+2026-04-01,Line A,Day,Model C,Dent,53,Warehouse,AGV,404
+2026-04-02,Line A,Day,Model C,Tear,157,Conveyor,Forklift,1259
+2026-04-02,Line A,Day,Model C,Dent,99,Loading,AGV,628
+2026-04-02,Line A,Day,Model C,Dent,99,Conveyor,Conveyor,738
+2026-04-02,Line B,Day,Model B,Tear,86,Conveyor,AGV,636
+2026-04-03,Line B,Day,Model B,Tear,68,Conveyor,Conveyor,514
+2026-04-03,Line C,Day,Model A,Tear,83,Conveyor,Forklift,609
+2026-04-03,Line C,Day,Model A,Label Damage,36,Conveyor,AGV,130
+2026-04-03,Line C,Day,Model A,Crushed,87,Conveyor,Forklift,788
+2026-04-04,Line B,Day,Model B,Tear,77,Conveyor,Conveyor,633
+2026-04-04,Line C,Day,Model A,Tear,163,Temporary Area,Manual,1312
+2026-04-05,Line C,Day,Model A,Tear,59,Conveyor,AGV,453
+2026-04-05,Line C,Day,Model A,Dent,119,Conveyor,Forklift,886
+2026-04-05,Line C,Day,Model A,Wet,56,Temporary Area,Forklift,323
+2026-04-06,Line A,Night,Model A,Dent,59,Conveyor,AGV,426
+2026-04-06,Line B,Night,Model C,Crushed,33,Warehouse,Forklift,307
+2026-04-06,Line B,Night,Model C,Tear,47,Conveyor,Conveyor,373
+2026-04-06,Line B,Night,Model C,Dent,55,Warehouse,Forklift,389
+2026-04-07,Line A,Night,Model A,Tear,129,Conveyor,AGV,1072
+2026-04-07,Line A,Night,Model A,Tear,88,Conveyor,Conveyor,746
+2026-04-07,Line B,Night,Model C,Dent,104,Conveyor,Manual,687
+2026-04-07,Line C,Night,Model B,Tear,58,Conveyor,Conveyor,494
+2026-04-08,Line A,Night,Model A,Tear,115,Temporary Area,AGV,917
+2026-04-08,Line A,Night,Model A,Tear,105,Temporary Area,Conveyor,852
+2026-04-08,Line B,Night,Model C,Crushed,92,Loading,Conveyor,821
+2026-04-09,Line A,Night,Model A,Tear,177,Loading,AGV,1496
+2026-04-09,Line B,Night,Model C,Dent,132,Warehouse,Forklift,861
+2026-04-09,Line B,Night,Model C,Wet,45,Warehouse,Conveyor,291
+2026-04-09,Line B,Night,Model C,Tear,177,Loading,Conveyor,1521
+2026-04-10,Line B,Night,Model C,Tear,78,Conveyor,AGV,686
+2026-04-10,Line C,Night,Model B,Tear,42,Conveyor,AGV,303
+2026-04-10,Line C,Night,Model B,Crushed,57,Warehouse,Manual,502
+2026-04-11,Line C,Night,Model B,Dent,76,Conveyor,Conveyor,482
+2026-04-12,Line C,Night,Model B,Dent,129,Warehouse,Forklift,970
+2026-04-12,Line C,Night,Model B,Dent,69,Conveyor,AGV,448
+2026-04-12,Line C,Night,Model B,Wet,16,Warehouse,Forklift,102
+2026-04-13,Line A,Day,Model B,Tear,65,Conveyor,Conveyor,471
+2026-04-13,Line A,Day,Model B,Dent,112,Warehouse,Forklift,783
+2026-04-14,Line A,Day,Model B,Tear,152,Loading,AGV,1331
+2026-04-14,Line B,Day,Model A,Dent,94,Conveyor,AGV,618
+2026-04-14,Line C,Day,Model C,Label Damage,37,Temporary Area,Manual,144
+2026-04-14,Line C,Day,Model C,Dent,87,Warehouse,Forklift,664
+2026-04-15,Line A,Day,Model B,Tear,76,Conveyor,Conveyor,554
+2026-04-15,Line A,Day,Model B,Tear,178,Conveyor,Conveyor,1372
+2026-04-16,Line A,Day,Model B,Tear,49,Loading,AGV,373
+2026-04-16,Line B,Day,Model A,Label Damage,18,Warehouse,Forklift,68
+2026-04-17,Line B,Day,Model A,Crushed,55,Temporary Area,AGV,518
+2026-04-17,Line B,Day,Model A,Crushed,94,Conveyor,Conveyor,833
+2026-04-18,Line A,Day,Model B,Tear,79,Warehouse,Manual,640
+2026-04-18,Line B,Day,Model A,Wet,62,Conveyor,Conveyor,361
+2026-04-18,Line C,Day,Model C,Dent,85,Conveyor,AGV,653
+2026-04-18,Line C,Day,Model C,Crushed,99,Conveyor,AGV,808
+2026-04-19,Line A,Day,Model B,Crushed,54,Conveyor,Conveyor,498
+2026-04-19,Line A,Day,Model B,Dent,135,Conveyor,Conveyor,942
+2026-04-19,Line A,Day,Model B,Tear,67,Loading,AGV,498
+2026-04-19,Line B,Day,Model A,Dent,64,Conveyor,AGV,464
+2026-04-19,Line B,Day,Model A,Dent,47,Conveyor,AGV,352
+2026-04-20,Line A,Night,Model C,Tear,88,Loading,Forklift,661
+2026-04-20,Line A,Night,Model C,Dent,113,Conveyor,AGV,801
+2026-04-20,Line C,Night,Model A,Dent,86,Conveyor,AGV,651
+2026-04-21,Line A,Night,Model C,Tear,100,Warehouse,Forklift,827
+2026-04-21,Line A,Night,Model C,Wet,16,Loading,AGV,87
+2026-04-21,Line B,Night,Model B,Tear,64,Conveyor,Manual,524
+2026-04-21,Line C,Night,Model A,Dent,99,Temporary Area,AGV,714
+2026-04-21,Line C,Night,Model A,Tear,168,Conveyor,AGV,1447
+2026-04-22,Line C,Night,Model A,Tear,63,Conveyor,Conveyor,500
+2026-04-22,Line C,Night,Model A,Tear,43,Conveyor,AGV,312
+2026-04-23,Line A,Night,Model C,Dent,76,Conveyor,Conveyor,507
+2026-04-23,Line B,Night,Model B,Wet,65,Conveyor,AGV,427
+2026-04-23,Line C,Night,Model A,Label Damage,42,Conveyor,Manual,178
+2026-04-23,Line C,Night,Model A,Crushed,30,Conveyor,AGV,295
+2026-04-24,Line B,Night,Model B,Tear,50,Conveyor,Conveyor,428
+2026-04-24,Line C,Night,Model A,Tear,137,Temporary Area,Conveyor,1020
+2026-04-25,Line A,Night,Model C,Crushed,98,Loading,AGV,861
+2026-04-25,Line A,Night,Model C,Wet,30,Loading,Forklift,169
+2026-04-25,Line B,Night,Model B,Tear,77,Temporary Area,AGV,612
+2026-04-25,Line B,Night,Model B,Crushed,60,Conveyor,AGV,522
+2026-04-26,Line A,Night,Model C,Dent,90,Loading,Manual,654
+2026-04-26,Line A,Night,Model C,Crushed,59,Loading,Manual,524
+2026-04-26,Line A,Night,Model C,Tear,98,Conveyor,AGV,785
+2026-04-26,Line A,Night,Model C,Dent,143,Loading,AGV,1005
+2026-04-26,Line A,Night,Model C,Tear,127,Conveyor,Conveyor,956
+2026-04-26,Line B,Night,Model B,Scratch,20,Conveyor,Conveyor,56
+2026-04-26,Line B,Night,Model B,Tear,154,Conveyor,Conveyor,1283
+2026-04-26,Line B,Night,Model B,Wet,45,Loading,Conveyor,252
+2026-04-26,Line C,Night,Model A,Tear,98,Temporary Area,Manual,804
+2026-04-27,Line A,Day,Model A,Dent,46,Loading,Conveyor,300
+2026-04-27,Line B,Day,Model C,Tear,61,Loading,Forklift,510
+2026-04-27,Line B,Day,Model C,Label Damage,19,Loading,AGV,72
+2026-04-28,Line A,Day,Model A,Tear,56,Conveyor,AGV,465
+2026-04-28,Line A,Day,Model A,Tear,162,Loading,AGV,1369
+2026-04-28,Line A,Day,Model A,Tear,72,Warehouse,Forklift,572
+2026-04-29,Line A,Day,Model A,Wet,40,Conveyor,AGV,240
+2026-04-29,Line C,Day,Model B,Wet,70,Loading,Conveyor,391
+2026-04-29,Line C,Day,Model B,Dent,57,Loading,AGV,420
+2026-04-30,Line A,Day,Model A,Dent,148,Loading,AGV,1030
+2026-04-30,Line B,Day,Model C,Crushed,79,Loading,AGV,742
+2026-05-01,Line A,Day,Model A,Crushed,83,Loading,Manual,763
+2026-05-01,Line A,Day,Model A,Scratch,19,Conveyor,AGV,52
+2026-05-01,Line B,Day,Model C,Tear,53,Loading,AGV,455
+2026-05-01,Line C,Day,Model B,Dent,85,Temporary Area,Forklift,567
+2026-05-01,Line C,Day,Model B,Dent,68,Conveyor,Conveyor,430
+2026-05-01,Line C,Day,Model B,Dent,131,Conveyor,AGV,933
+2026-05-02,Line A,Day,Model A,Wet,73,Conveyor,Conveyor,398
+2026-05-02,Line A,Day,Model A,Dent,143,Loading,AGV,931
+2026-05-02,Line C,Day,Model B,Dent,120,Conveyor,Conveyor,807
+2026-05-03,Line A,Day,Model A,Tear,69,Temporary Area,AGV,530
+2026-05-03,Line A,Day,Model A,Tear,80,Conveyor,AGV,703
+2026-05-03,Line B,Day,Model C,Dent,62,Warehouse,Forklift,442
+2026-05-03,Line C,Day,Model B,Wet,61,Temporary Area,AGV,348
+2026-05-04,Line A,Night,Model B,Dent,92,Conveyor,Conveyor,691
+2026-05-04,Line B,Night,Model A,Tear,101,Warehouse,Forklift,751
+2026-05-04,Line C,Night,Model C,Dent,132,Conveyor,AGV,1006
+2026-05-05,Line A,Night,Model B,Dent,65,Warehouse,AGV,458
+2026-05-05,Line A,Night,Model B,Dent,113,Conveyor,AGV,811
+2026-05-05,Line B,Night,Model A,Crushed,79,Loading,Forklift,640
+2026-05-05,Line B,Night,Model A,Label Damage,22,Conveyor,Conveyor,84
+2026-05-05,Line B,Night,Model A,Dent,148,Warehouse,AGV,1005
+2026-05-05,Line B,Night,Model A,Tear,179,Conveyor,AGV,1402
+2026-05-05,Line B,Night,Model A,Tear,93,Warehouse,Forklift,779
+2026-05-06,Line A,Night,Model B,Tear,62,Conveyor,Conveyor,497
+2026-05-06,Line A,Night,Model B,Tear,82,Temporary Area,Manual,702
+2026-05-06,Line B,Night,Model A,Crushed,52,Conveyor,AGV,461
+2026-05-07,Line A,Night,Model B,Dent,105,Conveyor,Conveyor,747
+2026-05-07,Line A,Night,Model B,Crushed,90,Conveyor,AGV,843
+2026-05-07,Line A,Night,Model B,Crushed,76,Conveyor,AGV,644
+2026-05-07,Line B,Night,Model A,Tear,154,Warehouse,Forklift,1335
+2026-05-08,Line A,Night,Model B,Tear,115,Temporary Area,AGV,906
+2026-05-08,Line A,Night,Model B,Tear,150,Conveyor,Conveyor,1284
+2026-05-08,Line A,Night,Model B,Tear,173,Loading,Conveyor,1299
+2026-05-08,Line A,Night,Model B,Wet,46,Conveyor,AGV,277
+2026-05-08,Line B,Night,Model A,Dent,42,Conveyor,Conveyor,303
+2026-05-08,Line B,Night,Model A,Wet,44,Warehouse,AGV,249
+2026-05-09,Line A,Night,Model B,Tear,91,Loading,Conveyor,696
+2026-05-09,Line A,Night,Model B,Tear,103,Loading,Forklift,833
+2026-05-09,Line A,Night,Model B,Tear,48,Temporary Area,AGV,381
+2026-05-09,Line A,Night,Model B,Dent,44,Loading,Forklift,315
+2026-05-10,Line A,Night,Model B,Dent,78,Loading,Conveyor,560
+2026-05-10,Line A,Night,Model B,Dent,130,Conveyor,AGV,895
+2026-05-10,Line C,Night,Model C,Tear,50,Loading,AGV,424
+2026-05-11,Line A,Day,Model C,Scratch,25,Loading,Forklift,79
+2026-05-11,Line A,Day,Model C,Tear,82,Conveyor,AGV,592
+2026-05-11,Line A,Day,Model C,Tear,48,Loading,Forklift,386
+2026-05-11,Line B,Day,Model B,Tear,123,Loading,AGV,972
+2026-05-12,Line A,Day,Model C,Tear,167,Temporary Area,AGV,1384
+2026-05-12,Line A,Day,Model C,Tear,90,Warehouse,AGV,766
+2026-05-12,Line A,Day,Model C,Dent,87,Loading,AGV,605
+2026-05-12,Line B,Day,Model B,Dent,90,Conveyor,AGV,615
+2026-05-12,Line B,Day,Model B,Dent,116,Conveyor,AGV,837
+2026-05-12,Line C,Day,Model A,Crushed,47,Loading,Conveyor,408
+2026-05-13,Line A,Day,Model C,Dent,74,Conveyor,Conveyor,524
+2026-05-13,Line A,Day,Model C,Tear,81,Loading,AGV,632
+2026-05-13,Line B,Day,Model B,Crushed,59,Warehouse,Forklift,514
+2026-05-13,Line B,Day,Model B,Tear,147,Conveyor,AGV,1103
+2026-05-13,Line B,Day,Model B,Tear,128,Warehouse,Manual,1113
+2026-05-13,Line B,Day,Model B,Dent,74,Loading,Forklift,468
+2026-05-13,Line C,Day,Model A,Dent,96,Temporary Area,AGV,659
+2026-05-13,Line C,Day,Model A,Tear,88,Loading,Forklift,760
+2026-05-13,Line C,Day,Model A,Crushed,98,Loading,Manual,854
+2026-05-14,Line A,Day,Model C,Tear,94,Conveyor,AGV,827
+2026-05-14,Line B,Day,Model B,Dent,144,Warehouse,Forklift,954
+2026-05-16,Line A,Day,Model C,Tear,79,Conveyor,AGV,574
+2026-05-16,Line B,Day,Model B,Dent,92,Conveyor,AGV,609
+2026-05-16,Line B,Day,Model B,Dent,116,Warehouse,Forklift,748
+2026-05-17,Line A,Day,Model C,Crushed,74,Conveyor,Manual,656
+2026-05-17,Line C,Day,Model A,Tear,71,Warehouse,Forklift,525
+2026-05-17,Line C,Day,Model A,Label Damage,17,Loading,Forklift,74
+2026-05-18,Line A,Night,Model A,Tear,77,Warehouse,AGV,654
+2026-05-18,Line A,Night,Model A,Scratch,31,Loading,AGV,95
+2026-05-18,Line B,Night,Model C,Dent,102,Loading,AGV,756
+2026-05-18,Line B,Night,Model C,Dent,120,Conveyor,AGV,784
+2026-05-18,Line B,Night,Model C,Tear,46,Temporary Area,Manual,349
+2026-05-18,Line B,Night,Model C,Crushed,97,Loading,AGV,898
+2026-05-18,Line C,Night,Model B,Tear,111,Conveyor,Conveyor,905
+2026-05-18,Line C,Night,Model B,Dent,95,Loading,Conveyor,694
+2026-05-18,Line C,Night,Model B,Crushed,76,Conveyor,Conveyor,632
+2026-05-19,Line A,Night,Model A,Dent,146,Temporary Area,AGV,993
+2026-05-19,Line A,Night,Model A,Tear,133,Conveyor,AGV,1078
+2026-05-19,Line A,Night,Model A,Dent,41,Loading,Forklift,291
+2026-05-19,Line B,Night,Model C,Tear,155,Warehouse,Manual,1320
+2026-05-20,Line A,Night,Model A,Tear,43,Loading,AGV,313
+2026-05-20,Line A,Night,Model A,Tear,50,Warehouse,Forklift,433
+2026-05-20,Line A,Night,Model A,Dent,60,Loading,Conveyor,440
+2026-05-20,Line A,Night,Model A,Dent,77,Loading,Conveyor,582
+2026-05-20,Line A,Night,Model A,Dent,119,Warehouse,AGV,825
+2026-05-20,Line B,Night,Model C,Tear,168,Conveyor,AGV,1211
+2026-05-20,Line C,Night,Model B,Label Damage,58,Conveyor,AGV,210
+2026-05-21,Line A,Night,Model A,Tear,51,Loading,AGV,417
+2026-05-21,Line A,Night,Model A,Wet,31,Warehouse,Forklift,175
+2026-05-21,Line A,Night,Model A,Tear,65,Loading,Forklift,545
+2026-05-21,Line A,Night,Model A,Wet,21,Warehouse,Manual,118
+2026-05-22,Line A,Night,Model A,Dent,69,Temporary Area,AGV,470
+2026-05-22,Line A,Night,Model A,Dent,56,Warehouse,Forklift,420
+2026-05-22,Line A,Night,Model A,Tear,101,Conveyor,AGV,729
+2026-05-23,Line A,Night,Model A,Crushed,33,Conveyor,Conveyor,285
+2026-05-23,Line A,Night,Model A,Dent,127,Conveyor,Conveyor,977
+2026-05-23,Line A,Night,Model A,Tear,71,Loading,Manual,606
+2026-05-23,Line A,Night,Model A,Crushed,78,Loading,AGV,736
+2026-05-24,Line A,Night,Model A,Wet,64,Conveyor,Conveyor,366
+2026-05-24,Line A,Night,Model A,Dent,123,Conveyor,AGV,833
+2026-05-24,Line C,Night,Model B,Tear,41,Loading,Forklift,332
+2026-05-25,Line A,Day,Model B,Label Damage,13,Loading,AGV,55
+2026-05-25,Line B,Day,Model A,Tear,114,Conveyor,Conveyor,822
+2026-05-25,Line B,Day,Model A,Label Damage,58,Conveyor,Conveyor,224
+2026-05-25,Line C,Day,Model C,Tear,179,Loading,AGV,1326
+2026-05-26,Line A,Day,Model B,Dent,62,Warehouse,Forklift,404
+2026-05-26,Line B,Day,Model A,Tear,139,Loading,Conveyor,1076
+2026-05-26,Line B,Day,Model A,Crushed,36,Conveyor,Conveyor,339
+2026-05-26,Line C,Day,Model C,Wet,51,Temporary Area,Manual,286
+2026-05-26,Line C,Day,Model C,Dent,81,Loading,AGV,616
+2026-05-26,Line C,Day,Model C,Dent,125,Conveyor,Conveyor,881
+2026-05-27,Line B,Day,Model A,Crushed,31,Conveyor,AGV,258
+2026-05-27,Line C,Day,Model C,Tear,40,Loading,AGV,311
+2026-05-27,Line C,Day,Model C,Tear,129,Conveyor,AGV,962
+2026-05-28,Line A,Day,Model B,Dent,68,Loading,AGV,519
+2026-05-28,Line A,Day,Model B,Tear,149,Loading,Conveyor,1162
+2026-05-28,Line B,Day,Model A,Scratch,29,Conveyor,AGV,88
+2026-05-29,Line B,Day,Model A,Dent,134,Warehouse,AGV,974
+2026-05-29,Line B,Day,Model A,Crushed,25,Conveyor,AGV,212
+2026-05-30,Line A,Day,Model B,Dent,58,Warehouse,Forklift,381
+2026-05-30,Line B,Day,Model A,Tear,84,Loading,AGV,710
+2026-05-30,Line B,Day,Model A,Tear,92,Conveyor,AGV,746
+2026-05-31,Line A,Day,Model B,Tear,158,Conveyor,Conveyor,1273
+2026-05-31,Line A,Day,Model B,Dent,110,Conveyor,Conveyor,701
+2026-05-31,Line A,Day,Model B,Dent,94,Loading,Manual,599
+2026-05-31,Line A,Day,Model B,Wet,28,Conveyor,Conveyor,170
+2026-06-02,Line A,Night,Model C,Tear,129,Conveyor,AGV,981
+2026-06-02,Line A,Night,Model C,Tear,130,Conveyor,AGV,1039
+2026-06-02,Line C,Night,Model A,Label Damage,43,Loading,AGV,164
+2026-06-03,Line A,Night,Model C,Tear,179,Conveyor,Conveyor,1459
+2026-06-03,Line A,Night,Model C,Dent,92,Loading,Conveyor,621
+2026-06-03,Line C,Night,Model A,Tear,86,Conveyor,AGV,744
+2026-06-04,Line B,Night,Model B,Scratch,14,Conveyor,AGV,45
+2026-06-04,Line B,Night,Model B,Scratch,35,Loading,Conveyor,100
+2026-06-05,Line B,Night,Model B,Wet,75,Conveyor,Conveyor,459
+2026-06-05,Line C,Night,Model A,Scratch,39,Loading,AGV,114
+2026-06-06,Line B,Night,Model B,Scratch,25,Conveyor,Conveyor,82
+2026-06-07,Line A,Night,Model C,Tear,147,Loading,AGV,1166
+2026-06-08,Line C,Day,Model B,Crushed,61,Conveyor,Conveyor,521
+2026-06-10,Line A,Day,Model A,Tear,157,Conveyor,Conveyor,1299
+2026-06-10,Line A,Day,Model A,Label Damage,21,Conveyor,Conveyor,85
+2026-06-10,Line C,Day,Model B,Scratch,22,Loading,AGV,69
+2026-06-11,Line A,Day,Model A,Wet,74,Conveyor,AGV,436
+2026-06-11,Line C,Day,Model B,Crushed,81,Conveyor,AGV,688
+2026-06-13,Line A,Day,Model A,Tear,163,Conveyor,AGV,1380
+2026-06-13,Line A,Day,Model A,Tear,92,Loading,Conveyor,713
+2026-06-13,Line A,Day,Model A,Crushed,28,Loading,Conveyor,248
+2026-06-14,Line A,Day,Model A,Tear,116,Loading,Manual,991
+2026-06-14,Line A,Day,Model A,Scratch,33,Conveyor,Conveyor,101
+2026-06-14,Line B,Day,Model C,Dent,123,Loading,Conveyor,834
+2026-06-15,Line A,Night,Model B,Crushed,21,Loading,AGV,183
+2026-06-15,Line C,Night,Model C,Wet,68,Loading,Conveyor,434
+2026-06-15,Line C,Night,Model C,Scratch,20,Loading,Manual,54
+2026-06-16,Line A,Night,Model B,Scratch,37,Loading,Conveyor,113
+2026-06-16,Line A,Night,Model B,Tear,142,Loading,Manual,1099
+2026-06-17,Line B,Night,Model A,Scratch,35,Conveyor,Conveyor,100
+2026-06-19,Line C,Night,Model C,Wet,77,Conveyor,AGV,444
+2026-06-20,Line A,Night,Model B,Tear,124,Loading,AGV,951
+2026-06-21,Line A,Night,Model B,Scratch,15,Conveyor,AGV,47
+2026-06-22,Line C,Day,Model A,Scratch,24,Loading,Manual,68
+2026-06-24,Line A,Day,Model C,Crushed,58,Loading,AGV,573
+2026-06-25,Line A,Day,Model C,Tear,90,Loading,AGV,653
+2026-06-26,Line A,Day,Model C,Scratch,15,Loading,Conveyor,44
+2026-06-27,Line A,Day,Model C,Crushed,97,Conveyor,Manual,834
+2026-06-27,Line B,Day,Model B,Scratch,19,Loading,AGV,57
+2026-06-28,Line B,Day,Model B,Scratch,21,Conveyor,AGV,68
+2026-06-28,Line C,Day,Model A,Tear,138,Loading,Conveyor,1114
+2026-06-29,Line C,Night,Model B,Scratch,8,Conveyor,AGV,22
+2026-06-30,Line A,Night,Model A,Scratch,18,Loading,Conveyor,52
+2026-06-30,Line A,Night,Model A,Scratch,18,Conveyor,AGV,57
+2026-06-30,Line C,Night,Model B,Tear,43,Conveyor,AGV,331
+2026-06-30,Line C,Night,Model B,Wet,21,Loading,Conveyor,130
